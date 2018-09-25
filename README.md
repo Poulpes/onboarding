@@ -116,7 +116,7 @@ If you want to keep your Personal Google Drive Back Up and Sync functionalities:
 #### Calendar
 With your *@poulpe.co* you'll have access to:
 - everyone's calendar
-- the team calendar ()
+- the team calendar named the team Calendar (poulpe.co_8m31vtbdv5k9o20ck8r7m2emfg@group.calendar.google.com)
 
 #### Others: Slides, sheets
 
@@ -138,6 +138,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzM0OTA4MiwtMTQxMTc3MDUyMiwtOT
+eyJoaXN0b3J5IjpbMTg5NTEzOTE2MCwtMTQxMTc3MDUyMiwtOT
 A0MzQ1MTEsNTU1NzgwMzMxXX0=
 -->

@@ -106,9 +106,11 @@ If you need to create materials *(other than code !)* such as explanatory notes,
 If you don't know, default to option 2.
 
 We encourage you to **sync/stream** the team drives to your local drive with the **Google Drive File Stream**. To do that:
-- Install Google Drive File Stream:
-	- Online instructions https://support.google.com/drive/answer/7329379
-	- `$ `
+- Install Google Drive File Stream either:
+	- online: https://support.google.com/drive/answer/7329379 **(without uninstalling Google Drive 👇)**
+	- with your terminal: `$ brew cask install google-drive-file-stream`
+- C
+
 #### Calendar
 
 #### Others: Slides, sheets
@@ -131,6 +133,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjIyNzk5MzIsLTE0MTE3NzA1MjIsLT
+eyJoaXN0b3J5IjpbLTIxMDU3MDAyMTAsLTE0MTE3NzA1MjIsLT
 kwNDM0NTExLDU1NTc4MDMzMV19
 -->

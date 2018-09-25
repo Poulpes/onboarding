@@ -86,7 +86,7 @@ Every project has its own board. The precise name and number of lists may vary f
 We've been trying some other tools (GitHub issues, Jira, etc.) but Trello feels the more practical/convenient/simple to collaborate on each project and to onboard client in the project management process.
 
 #### Slack
-We use Slack... a lot. You'll be invited to join our slack: https://les-poulpes.slack.com/ with your *@poulpe.co* address. Be sure to download the 
+We use Slack... a lot. You'll be invited to join our slack: https://les-poulpes.slack.com/ with your *@poulpe.co* address. Be sure to download the Desktop App (https://slack.com/intl/fr-fr/downloads/osx) and setup your profiles with your B&W profile picture (see before_action ☝️)
 
 #### Email
 
@@ -114,6 +114,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NTA0MDgxLC05MDQzNDUxMSw1NTU3OD
-AzMzFdfQ==
+eyJoaXN0b3J5IjpbLTExOTk2ODYwNjQsLTkwNDM0NTExLDU1NT
+c4MDMzMV19
 -->

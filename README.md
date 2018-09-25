@@ -87,7 +87,9 @@ We've been trying some other tools (GitHub issues, Jira, etc.) but Trello feels 
 
 #### Slack
 We use Slack... a lot:
-- You'll be invited to join our slack: https://les-poulpes.slack.com/ with your *@poulpe.co* address. Be sure to download the Desktop App (https://slack.com/intl/fr-fr/downloads/osx) and setup your profiles with your B&W profile picture *(see before_action ☝️)*.
+- You'll be invited to join our slack: https://les-poulpes.slack.com/ with your *@poulpe.co* address.
+- Be sure to download the Desktop App (https://slack.com/intl/fr-fr/downloads/osx)
+- Be sure to setup your profiles with your B&W profile picture *(see before_action ☝️)*.
 
 #### Email
 For external communication and various account creation you'll be using a Communication with client
@@ -116,6 +118,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNTM3NzU4LC05MDQzNDUxMSw1NTU3OD
-AzMzFdfQ==
+eyJoaXN0b3J5IjpbLTE0MTE3NzA1MjIsLTkwNDM0NTExLDU1NT
+c4MDMzMV19
 -->

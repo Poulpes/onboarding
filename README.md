@@ -76,10 +76,13 @@ Regarding tools and processes:
 
 #### Trello
 **Make sure to create an account on Trello with your @poulpe.co address**.
-Every project has its own board with:
+
+Every project has its own board. The precise name and number of lists may vary from projects to projects but you'll aways somehow find:
 - an "INPUT" or "NOTES" card giving access to input data of the projects: requirements, maquettes, notes, etc.
 - a backlog list
-- an in-progress list 
+- an in-progress list
+- a done list
+
 
 #### Slack
 
@@ -109,5 +112,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMDYxOTU3LDU1NTc4MDMzMV19
+eyJoaXN0b3J5IjpbMTA1NTE1MzIxNyw1NTU3ODAzMzFdfQ==
 -->

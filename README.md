@@ -75,7 +75,7 @@ Regarding tools and processes:
 - Planning and scheduling is made easy with a well-informed Google Calendar
 
 #### Trello
-**Make sure to create an account on [Trello](https://trello.com) with your @poulpe.co address**. We'll add you to
+**Make sure to create an account on [Trello](https://trello.com) with your @poulpe.co address**. We'll add you to the team.
 
 Every project has its own board. The precise name and number of lists may vary from projects to projects but you'll aways somehow find:
 - an "INPUT" or "NOTES" card giving access to input data of the projects: requirements, maquettes, notes, etc.
@@ -113,5 +113,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjUyNjQ4Myw1NTU3ODAzMzFdfQ==
+eyJoaXN0b3J5IjpbLTkwNDM0NTExLDU1NTc4MDMzMV19
 -->

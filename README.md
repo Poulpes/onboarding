@@ -44,7 +44,11 @@ The other 20% are either hosted on GitHub Pages, Scalingo or directly by the cli
 SO, postmark, sendgrid, papertrail, amazon, cloudinary, etc. andfor desogns
 
 ### StackEdit
-[StackEdit](https://stackedit.io) comes handy when to writing down your dev technical notes, preparing your PR, `.readme` files. It's free to use and you  and To better write in markdown you can your 
+[StackEdit](https://stackedit.io) comes handy when to writing down your dev technical notes, preparing your PR, `.readme` files. It's free to use and you can sync files with Google Drive and GitHub.
+
+### Other tools and services
+
+Post
 
 
 ## Project Management
@@ -91,5 +95,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NzgwMzMxXX0=
+eyJoaXN0b3J5IjpbLTE0MDAxNDA4MDQsNTU1NzgwMzMxXX0=
 -->

@@ -48,7 +48,7 @@ SO, postmark, sendgrid, papertrail, amazon, cloudinary, etc. andfor desogns
 
 ### Other tools and services
 
-Post
+[PostmarkApp](https://postmarkapp.com/), [SendGrid](https://sendgrid.com/), [Cloudinary](https://cloudinary.com/), [AWS](https://aws.amazon.com/fr/),  
 
 
 ## Project Management
@@ -95,5 +95,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAxNDA4MDQsNTU1NzgwMzMxXX0=
+eyJoaXN0b3J5IjpbMTA4MzgyMjMxNyw1NTU3ODAzMzFdfQ==
 -->

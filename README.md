@@ -128,7 +128,9 @@ The principles:
 With these logs, the project manager consolidate on a weekly basis the time already spent on the project and (s)he can
 - anticipate delay and take the appropriate measures
 - change features priority in the backlog
-- decide to prioriti
+- check the economic health of the project
+
+**Filling your Nikabot on daily basis is critical.
 
 #### Others
 When creating/editing other documents we tend to stick to Google Apps: Google Docs, Google Sheet, Google Slides.
@@ -151,6 +153,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTczNzgzNDcsMTg5NTEzOTE2MCwtMT
-QxMTc3MDUyMiwtOTA0MzQ1MTEsNTU1NzgwMzMxXX0=
+eyJoaXN0b3J5IjpbMTQ3MTExNzYwNCwxODk1MTM5MTYwLC0xND
+ExNzcwNTIyLC05MDQzNDUxMSw1NTU3ODAzMzFdfQ==
 -->

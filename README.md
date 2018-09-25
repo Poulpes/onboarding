@@ -69,8 +69,10 @@ Each project is managed by a single project manager. 95% of the time, the projec
 ### Tools
 Regarding tools and processes:
 - Trello is our number 1 tool when managing project.
-- Communication goes through Slack
-- Emails are  Project Management is organiTrello is our m
+- Internal communication goes through Slack
+- Emails are for external communication: Poulpes <-> Client
+- Code is on GitHub other materials are stored on Google Poulpe's Team Drives
+- Planning and scheduling is made easy with a well-
 #### Trello
 
 #### Slack
@@ -101,5 +103,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDI1ODk4MCw1NTU3ODAzMzFdfQ==
+eyJoaXN0b3J5IjpbMTgwMDE1NDI2Miw1NTU3ODAzMzFdfQ==
 -->

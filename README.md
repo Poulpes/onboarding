@@ -83,6 +83,8 @@ Every project has its own board. The precise name and number of lists may vary f
 - an in-progress list
 - a done list
 
+We've been trying some other tools: GitHub issues, GiraTrello is an importantTry to follow 
+
 
 #### Slack
 
@@ -112,5 +114,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTE1MzIxNyw1NTU3ODAzMzFdfQ==
+eyJoaXN0b3J5IjpbNTA0NzM2OTMzLDU1NTc4MDMzMV19
 -->

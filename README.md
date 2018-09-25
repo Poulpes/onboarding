@@ -52,6 +52,8 @@ SO, postmark, sendgrid, papertrail, amazon, cloudinary, etc. andfor desogns
 
 ### Design
 
+[Sketch](https://www.sketchapp.com/), [Invision](https://www.invisionapp.com/), [Figma]()... depending on the projects
+
 
 
 
@@ -99,5 +101,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg3MDAxMDAsNTU1NzgwMzMxXX0=
+eyJoaXN0b3J5IjpbMjEzMjY2NDI2Myw1NTU3ODAzMzFdfQ==
 -->

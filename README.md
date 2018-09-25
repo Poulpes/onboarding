@@ -67,7 +67,7 @@ Each project is managed by a single project manager. 95% of the time, the projec
 - following the time spent on the project
 
 ### Tools
-
+Project Management is organiTrello is our m
 #### Trello
 
 #### Slack
@@ -98,5 +98,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTMzNTg3LDU1NTc4MDMzMV19
+eyJoaXN0b3J5IjpbLTE2MTU2NDg5ODAsNTU1NzgwMzMxXX0=
 -->

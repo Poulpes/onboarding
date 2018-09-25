@@ -114,12 +114,14 @@ We encourage you to **sync/stream** the team drives to your local drive with the
 If you want to keep your Personal Google Drive Back Up and Sync functionalities: no problem. Just be sure to keep the Google Drive Back Up and Sync add-on installed and connect to your Google personal account.
 
 #### Calendar
-With your *@poulpe.co* you'll have access to:
+We use Google Calendar for planning and scheduling purpose. With your *@poulpe.co* you'll have access to:
 - everyone's calendar
 - the team calendar (named the Team Calendar / poulpe.co_8m31vtbdv5k9o20ck8r7m2emfg@group.calendar.google.com)
 
 The principles:
-- Fill in your calendar ! It'We'll use it to check availability when scheduling meetings
+- Fill in your calendar ! It'll be shared and everyone we'll use it to check your availabilities when scheduling meetings or events
+- Use the Team Calendar when creating an event concerning everyone in the team !
+
 
 #### Others: Slides, sheets
 
@@ -141,6 +143,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1Nzg3NjIzLDE4OTUxMzkxNjAsLTE0MT
-E3NzA1MjIsLTkwNDM0NTExLDU1NTc4MDMzMV19
+eyJoaXN0b3J5IjpbLTEzMDYzNjI3MzYsMTg5NTEzOTE2MCwtMT
+QxMTc3MDUyMiwtOTA0MzQ1MTEsNTU1NzgwMzMxXX0=
 -->

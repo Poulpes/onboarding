@@ -122,6 +122,9 @@ The principles:
 - Fill in your calendar ! It'll be shared and everyone we'll use it to check your availabilities when scheduling meetings or events
 - Use the Team Calendar when creating an event concerning everyone in the team !
 
+#### Nikabot
+[Nikabot](https://www.nikabot.com) is a Slack Bot we're using to fill in the time spent we
+
 #### Others
 When creating/editing other documents we tend to stick to Google Apps: Google Docs, Google Sheet, Google Slides.
 
@@ -143,6 +146,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM4NTQ1NzMsMTg5NTEzOTE2MCwtMT
+eyJoaXN0b3J5IjpbLTIwOTUxMjQ5ODAsMTg5NTEzOTE2MCwtMT
 QxMTc3MDUyMiwtOTA0MzQ1MTEsNTU1NzgwMzMxXX0=
 -->

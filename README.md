@@ -72,8 +72,12 @@ Regarding tools and processes:
 - Internal communication goes through Slack
 - Emails are for external communication: Poulpes <-> Client
 - Code is on GitHub other materials are stored on Google Poulpe's Team Drives
-- Planning and scheduling is made easy with a well-
+- Planning and scheduling is made easy with a well-informed Google Calendar
+
 #### Trello
+**Make sure to create an account on Trello with your @poulpe.co address**.
+Every project has its own board with:
+
 
 #### Slack
 
@@ -103,5 +107,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDE1NDI2Miw1NTU3ODAzMzFdfQ==
+eyJoaXN0b3J5IjpbMjAwNDA4NjE4LDU1NTc4MDMzMV19
 -->

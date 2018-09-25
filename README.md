@@ -75,7 +75,7 @@ Regarding tools and processes:
 - Planning and scheduling is made easy with a well-informed Google Calendar
 
 #### Trello
-**Make sure to create an account on Trello with your @poulpe.co address**.
+**Make sure to create an account on [Trello](https://trello.com) with your @poulpe.co address**.
 
 Every project has its own board. The precise name and number of lists may vary from projects to projects but you'll aways somehow find:
 - an "INPUT" or "NOTES" card giving access to input data of the projects: requirements, maquettes, notes, etc.
@@ -83,7 +83,8 @@ Every project has its own board. The precise name and number of lists may vary f
 - an in-progress list
 - a done list
 
-We've been trying some other tools: GitHub issues, GiraTrello is an importantTry to follow 
+We've been trying some other tools (GitHub issues, Jira, etc.) but Trello feels the more practical/convenient/simple to collaborate as a team s we feel comfortable with Trello:
+GiraTrello is an importantTry to follow 
 
 
 #### Slack
@@ -114,5 +115,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NzM2OTMzLDU1NTc4MDMzMV19
+eyJoaXN0b3J5IjpbLTIwNzM3MzM3MzUsNTU1NzgwMzMxXX0=
 -->

@@ -94,7 +94,7 @@ We use Slack... a lot for internal communications *(project related, agency rela
 #### Email
 You should have received an invitation to complete the creation of your *first_name@poulpe.co* GSuite account. You'll be using this email address for external communication and access to various service.
 
-Using an email client or the Gmail interface, is up to you !
+Using an email client or the Gmail interface, is up to you ! 
 
 #### Drive
 
@@ -120,6 +120,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0NDcwMDU3LC0xNDExNzcwNTIyLC05MD
-QzNDUxMSw1NTU3ODAzMzFdfQ==
+eyJoaXN0b3J5IjpbMTcwMjU3NjY3MSwtMTQxMTc3MDUyMiwtOT
+A0MzQ1MTEsNTU1NzgwMzMxXX0=
 -->

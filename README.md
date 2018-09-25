@@ -125,8 +125,10 @@ The principles:
 #### Nikabot
 [Nikabot](https://www.nikabot.com) is a Slack Bot we're using to keep track of time spent on every projects. Once connected to the Poulpe Slack you'll receive a daily reminder around 6:30 to fill in your day activity: **Name of project | Time spent**.
 
-With these logs, the project manager consolidate on a weekly basis the time already spent on the project:
-- (s)he can anticipate delay or 
+With these logs, the project manager consolidate on a weekly basis the time already spent on the project and (s)he can
+- anticipate delay and take the appropriate measures
+- change features priority in the backlog
+- decide to prioriti
 
 #### Others
 When creating/editing other documents we tend to stick to Google Apps: Google Docs, Google Sheet, Google Slides.
@@ -149,6 +151,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ2NzAzMTUsMTg5NTEzOTE2MCwtMT
+eyJoaXN0b3J5IjpbLTIwNTczNzgzNDcsMTg5NTEzOTE2MCwtMT
 QxMTc3MDUyMiwtOTA0MzQ1MTEsNTU1NzgwMzMxXX0=
 -->

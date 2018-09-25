@@ -105,7 +105,10 @@ If you need to create materials *(other than code !)* such as explanatory notes,
 
 If you don't know, default to option 2.
 
-You can **sync/stream** the team drives to your local drive with the **Deploy Drive File Stream** and
+We encourage you to **sync/stream** the team drives to your local drive with the **Google Drive File Stream**. To do that:
+- Install Google Drive File Stream:
+	- Online instructions https://support.google.com/drive/answer/7329379
+	- `$ `
 #### Calendar
 
 #### Others: Slides, sheets
@@ -128,6 +131,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTQ5NjA4MCwtMTQxMTc3MDUyMiwtOT
-A0MzQ1MTEsNTU1NzgwMzMxXX0=
+eyJoaXN0b3J5IjpbLTE5MjIyNzk5MzIsLTE0MTE3NzA1MjIsLT
+kwNDM0NTExLDU1NTc4MDMzMV19
 -->

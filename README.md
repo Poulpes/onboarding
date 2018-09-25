@@ -92,7 +92,8 @@ We use Slack... a lot for internal communications *(project related, agency rela
 - Be sure to setup your profiles with your B&W profile picture *(see before_action ☝️)*.
 
 #### Email
-For external communication and various services, you'll be using your *first_name@poulpe.co*.  You shoEmails are managed with GSuite. 
+You should have received  an invitation to complete the creation of your *first_name@poulpe.co*
+ your our Google SUEmails are managed with GSuite. 
 
 #### Drive
 
@@ -118,6 +119,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDA3Njk5OCwtMTQxMTc3MDUyMiwtOT
+eyJoaXN0b3J5IjpbMTIzMTgwNDkyNCwtMTQxMTc3MDUyMiwtOT
 A0MzQ1MTEsNTU1NzgwMzMxXX0=
 -->

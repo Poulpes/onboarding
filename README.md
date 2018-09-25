@@ -114,6 +114,9 @@ We encourage you to **sync/stream** the team drives to your local drive with the
 If you want to keep your Personal Google Drive Back Up and Sync functionalities: no problem. Just be sure to keep the Google Drive Back Up and Sync add-on installed and connect to your Google personal account.
 
 #### Calendar
+With your *@poulpe.co* you'll have access to:
+- everyone's calendar
+- the team calendar ()
 
 #### Others: Slides, sheets
 
@@ -135,6 +138,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU1MDA4MjksLTE0MTE3NzA1MjIsLT
-kwNDM0NTExLDU1NTc4MDMzMV19
+eyJoaXN0b3J5IjpbMTkzMzM0OTA4MiwtMTQxMTc3MDUyMiwtOT
+A0MzQ1MTEsNTU1NzgwMzMxXX0=
 -->

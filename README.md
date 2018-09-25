@@ -100,8 +100,8 @@ Using an email client or the Gmail interface, is up to you ! Instructions to set
 With your *@poulpe.co*  account you'll have access to our Team Work Drive. Each project has its own Drive Folder account with Input Data (requirements, mockup, etc.).
 
 If you need to create materials *(other than code !)* such as explanatory notes, commented mockups, dev notes, data exports, etc.. 2 options:
-- it's only fo you ! It does not make any sens 
-- Created 
+- It's only fo you ! It does not make any sense to share it with the rest of the team -> **Host it wherever you want but not in the Poulpe drive**
+- It makes sens to share it with the rest of the team... or someone may find it useful later on on (maintenance phase)  -> ****
 #### Calendar
 
 #### Others: Slides, sheets
@@ -124,6 +124,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzY0MDQwMCwtMTQxMTc3MDUyMiwtOT
+eyJoaXN0b3J5IjpbMTg4MTc2MTM4OCwtMTQxMTc3MDUyMiwtOT
 A0MzQ1MTEsNTU1NzgwMzMxXX0=
 -->

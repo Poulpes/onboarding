@@ -52,10 +52,7 @@ SO, postmark, sendgrid, papertrail, amazon, cloudinary, etc. andfor desogns
 
 ### Design
 
-[Sketch](https://www.sketchapp.com/), [Invision](https://www.invisionapp.com/), [Figma]()... depending on the projects
-
-
-
+[Sketch](https://www.sketchapp.com/), [Invision](https://www.invisionapp.com/), [Figma](https://www.figma.com/)... depending on the projects, we may use different solution. 80% of the time we end up working with Sketch files.
 
 ## Project Management
 
@@ -101,5 +98,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjY2NDI2Myw1NTU3ODAzMzFdfQ==
+eyJoaXN0b3J5IjpbLTg3NTMzNTg3LDU1NTc4MDMzMV19
 -->

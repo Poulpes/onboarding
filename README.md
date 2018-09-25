@@ -48,7 +48,11 @@ SO, postmark, sendgrid, papertrail, amazon, cloudinary, etc. andfor desogns
 
 ### Other tools and services
 
-[PostmarkApp](https://postmarkapp.com/), [SendGrid](https://sendgrid.com/), [Cloudinary](https://cloudinary.com/), [AWS](https://aws.amazon.com/fr/),  
+[PostmarkApp](https://postmarkapp.com/), [SendGrid](https://sendgrid.com/), [Cloudinary](https://cloudinary.com/), [AWS](https://aws.amazon.com/fr/), [Gandi](https://www.gandi.net/fr), etc. are some other services, you'll come across. 
+
+### Design
+
+
 
 
 ## Project Management
@@ -95,5 +99,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzgyMjMxNyw1NTU3ODAzMzFdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjg3MDAxMDAsNTU1NzgwMzMxXX0=
 -->

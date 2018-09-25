@@ -97,7 +97,9 @@ You should have received an invitation to complete the creation of your *first_n
 Using an email client or the Gmail interface, is up to you ! Instructions to set up your client can be found [here](https://support.google.com/mail/answer/7126229?visit_id=636734694420902249-1983367045&rd=1).
 
 #### Drive
-With your *@poulpe.co*  account you'll have access to our Team Work Drive. Every projects 
+With your *@poulpe.co*  account you'll have access to our Team Work Drive. Each project has its own Drive Folder account with:
+- Input Data: client requirements, maquette UI/UX
+- Created 
 #### Calendar
 
 #### Others: Slides, sheets
@@ -120,6 +122,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDQ0MzU0NywtMTQxMTc3MDUyMiwtOT
-A0MzQ1MTEsNTU1NzgwMzMxXX0=
+eyJoaXN0b3J5IjpbLTEyMzYxNTY2MDYsLTE0MTE3NzA1MjIsLT
+kwNDM0NTExLDU1NTc4MDMzMV19
 -->

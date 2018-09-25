@@ -109,7 +109,9 @@ We encourage you to **sync/stream** the team drives to your local drive with the
 - Install Google Drive File Stream either:
 	- online: https://support.google.com/drive/answer/7329379 **(without uninstalling Google Drive 👇)**
 	- with your terminal: `$ brew cask install google-drive-file-stream`
-- C
+- Connect your *@poulpe.co* account and start syncing
+
+If you want to keep your Personal Google Drive Back Up and Sync functionalities: no problem. Just be sure to keep the Google Drive Back Up and Sync add-on installed and connect to your Google personal account.
 
 #### Calendar
 
@@ -133,6 +135,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU3MDAyMTAsLTE0MTE3NzA1MjIsLT
+eyJoaXN0b3J5IjpbLTE5OTU1MDA4MjksLTE0MTE3NzA1MjIsLT
 kwNDM0NTExLDU1NTc4MDMzMV19
 -->

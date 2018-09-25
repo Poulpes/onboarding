@@ -86,13 +86,13 @@ Every project has its own board. The precise name and number of lists may vary f
 We've been trying some other tools (GitHub issues, Jira, etc.) but Trello feels the more practical/convenient/simple to collaborate on each project and to onboard client in the project management process.
 
 #### Slack
-We use Slack... a lot for internal communications *(project related, agency related, life related, etc.) and with :
+We use Slack... a lot for internal communications *(project related, agency related, life related, etc.)* and even for external communication with some clients.
 - You'll be invited to join our slack: https://les-poulpes.slack.com/ with your *@poulpe.co* address.
 - Be sure to download the Desktop App (https://slack.com/intl/fr-fr/downloads/osx)
 - Be sure to setup your profiles with your B&W profile picture *(see before_action ☝️)*.
 
 #### Email
-For external communication and various account creation you'll be using a Communication with client
+For external communication and various services, you'll be using your *first_name@poulpe.co*.  You shoEmails are managed with GSuite. 
 
 #### Drive
 
@@ -118,6 +118,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTg1OTMyOCwtMTQxMTc3MDUyMiwtOT
+eyJoaXN0b3J5IjpbMjAwMDA3Njk5OCwtMTQxMTc3MDUyMiwtOT
 A0MzQ1MTEsNTU1NzgwMzMxXX0=
 -->

@@ -179,8 +179,10 @@ Apart from building things... we also want to write product or technical related
 The point is, if you want to contribute by:
 - shipping features on Poulpe side projects
 - packaging librairies or tools
-- suggesting new products
+- suggesting/designing/prototyping new products/services
 - writing down articles
+- increasing Poulpe's knowledge base
+- presenting us some works
 - 
 
 
@@ -196,6 +198,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTQ2MDM5OCwtOTQ0NTkwMDY2LC01OD
-M4MDI2MTMsMjAxOTc5NTA1MV19
+eyJoaXN0b3J5IjpbLTExMjk1NTU4MTQsLTk0NDU5MDA2NiwtNT
+gzODAyNjEzLDIwMTk3OTUwNTFdfQ==
 -->

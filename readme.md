@@ -163,7 +163,8 @@ This planning optimisation occurs more or less on a weekly basis, according to n
 
 ### Meetings
 #### Weekly Meetings
-- Monday 9:30/10 is the weekly breakfast planning : we share a cup of coffee and a couple of tartines and everyone in turn explain what is  up to 
+- Monday 9:30/10 is the **weekly breakfast meeting** : we share a cup of coffee and a couple of tartines and everyone in turn explain what (s)he is up to for the week, what (s)he is been doing, what problems (s)he may have / will encounter.
+- 
 #### Yearly Meetings
 ### Meetings
 ### Side and side Project
@@ -179,6 +180,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM5NjY5MjMsLTU4MzgwMjYxMywyMD
-E5Nzk1MDUxXX0=
+eyJoaXN0b3J5IjpbLTQ4ODIxMjExNSwtNTgzODAyNjEzLDIwMT
+k3OTUwNTFdfQ==
 -->

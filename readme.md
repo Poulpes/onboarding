@@ -179,15 +179,18 @@ Apart from building things... we also want to write product or technical related
 The point is, if you want to contribute by:
 - shipping features on Poulpe side projects
 - packaging librairies or tools
+- helping organising parties
 - suggesting/designing/prototyping new products/services
 - writing down articles
 - sharing resources and increasing Poulpe's knowledge base
 - presenting us some works
-- finding new offices !
-- bringing us 
+- finding new office !
+- etc.
 
+You're more than welcome !
 
 ### What time should I arrive ?
+
 ### Can I work from home ?
 ### Equipment
 
@@ -199,6 +202,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDQ5OTY1MCwtOTQ0NTkwMDY2LC01OD
+eyJoaXN0b3J5IjpbLTQzNjMyODExMiwtOTQ0NTkwMDY2LC01OD
 M4MDI2MTMsMjAxOTc5NTA1MV19
 -->

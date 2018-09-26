@@ -167,7 +167,7 @@ This planning optimisation occurs more or less on a weekly basis, according to n
 - Friday evening: Depending to everyone's schedule, friday evenings may be a good time to share a beer and talk about the week
 
 #### Yearly Meetings
-We're setting up a 
+We're setting up biannual meetings to dedicate time to review the past 6 months, discuss achievments and  
 ### Meetings
 ### Side and side Project
 ### What time should I arrive ?
@@ -182,6 +182,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzU0MDY1NCwtNTgzODAyNjEzLDIwMT
-k3OTUwNTFdfQ==
+eyJoaXN0b3J5IjpbMzMwNzUxMjAxLC01ODM4MDI2MTMsMjAxOT
+c5NTA1MV19
 -->

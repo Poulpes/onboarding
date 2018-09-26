@@ -140,7 +140,8 @@ When creating/editing other documents we tend to stick to Google Apps: Google Do
 Here is a couple of topics related to our daily organisation and life.
 
 ### What am I gonna work on ?
-
+When it comes to planning, we're trying to optimise :
+- the level of availability of everyone's in the tea
 #### Yearly Meeting
 ### Meetings
 ### Side and side Project
@@ -156,6 +157,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2NDAxNDc0LC01ODM4MDI2MTMsMjAxOT
+eyJoaXN0b3J5IjpbMTQyMzYxNzgyLC01ODM4MDI2MTMsMjAxOT
 c5NTA1MV19
 -->

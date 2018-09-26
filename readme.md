@@ -150,7 +150,7 @@ When it comes to planning, we're deciding the *who's gonna work on what ?* by tr
 	- You're a junior backend dev, you won't be in charge of the app architecture *...but you'll have time to discuss it with the lead dev*.
 
 	In addition, we're trying to meet your development expectation:  You're backend but you're keen on learning some frontend, we'll do our best to accommodate it. This will happen as long as :
-	- you'll tell us ;) (👇)
+	- you'll tell us ;) (yearly meetings 👇)
 	- it does not jeopardise the whole planning
 	- we have the opportunities
 
@@ -167,9 +167,11 @@ This planning optimisation occurs more or less on a weekly basis, according to n
 - Friday evening: Depending to everyone's schedule, friday evenings may be a good time to share a beer and talk about the week
 
 #### Yearly Meetings
-We're setting up biannual meetings to dedicate time to review the past 6 months, discuss achievments and  
-### Meetings
-### Side and side Project
+We're setting up biannual meetings to dedicate time to review the past 6 months, discuss achievements, expectations for the upcoming 6 months.
+ 
+### Side Project
+In addition to our client
+
 ### What time should I arrive ?
 ### Can I work from home ?
 ### Equipment
@@ -182,6 +184,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNzUxMjAxLC01ODM4MDI2MTMsMjAxOT
-c5NTA1MV19
+eyJoaXN0b3J5IjpbLTE4NTg3MjEyMjUsLTU4MzgwMjYxMywyMD
+E5Nzk1MDUxXX0=
 -->

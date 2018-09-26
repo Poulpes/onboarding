@@ -169,8 +169,8 @@ This planning optimisation occurs more or less on a weekly basis, according to n
 #### Yearly Meetings
 We're setting up biannual meetings to dedicate time to review the past 6 months, discuss achievements, expectations for the upcoming 6 months.
  
-### Side Project
-In addition to our client
+### Side Projects and Poulpe's activities
+In addition to client's projects, we want to 
 
 ### What time should I arrive ?
 ### Can I work from home ?
@@ -184,6 +184,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg3MjEyMjUsLTU4MzgwMjYxMywyMD
-E5Nzk1MDUxXX0=
+eyJoaXN0b3J5IjpbMTg4NTYwMjcwNCwtNTgzODAyNjEzLDIwMT
+k3OTUwNTFdfQ==
 -->

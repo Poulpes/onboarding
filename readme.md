@@ -204,6 +204,7 @@ Yes you can.
 Don't forget your 🕶️and try to tell us 1 month in advance ! It's just easier to arrange the team planning.
 
 ### Equipment
+You need pen, pencils, papers, screen, wires
 
 
 ### Social Network
@@ -213,6 +214,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MzQwMjM5LC02MTY2ODU5MTQsLTk0ND
-U5MDA2NiwtNTgzODAyNjEzLDIwMTk3OTUwNTFdfQ==
+eyJoaXN0b3J5IjpbMjEyNTA3MTEzNCwtNjE2Njg1OTE0LC05ND
+Q1OTAwNjYsLTU4MzgwMjYxMywyMDE5Nzk1MDUxXX0=
 -->

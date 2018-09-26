@@ -195,7 +195,7 @@ You're more than welcome !
 - Do your time
 
 ### Can I work from home ?
-Yes you can. Not everyday but if you want to work from home 
+Yes you can. Not on a regular basis but if you want to work from home from time to time
 ### Equipment
 
 
@@ -206,6 +206,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDIxODQ4OCwtOTQ0NTkwMDY2LC01OD
-M4MDI2MTMsMjAxOTc5NTA1MV19
+eyJoaXN0b3J5IjpbLTE0OTMyOTMxNzYsLTk0NDU5MDA2NiwtNT
+gzODAyNjEzLDIwMTk3OTUwNTFdfQ==
 -->

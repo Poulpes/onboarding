@@ -140,11 +140,11 @@ When creating/editing other documents we tend to stick to Google Apps: Google Do
 Here is a couple of topics related to our daily organisation and life.
 
 ### What am I gonna work on ?
-When it comes to planning, we're deciding the "who's gonna work on what" by trying to optimise various factors:
+When it comes to planning, we're deciding the *who's gonna work on what ?* by trying to optimise various factors:
 - **Availability**
 	Obviously, we're trying to smooth the workload of everyone.
 - **Technical affinity and skills**
-	If you're  
+	You are a front-end expert and lover and 
 - the opportunity to work from A to Z on a project
 - the level of skills required
 - the technical affinity
@@ -164,6 +164,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODU1NjA2LC01ODM4MDI2MTMsMjAxOT
-c5NTA1MV19
+eyJoaXN0b3J5IjpbMTAzMjIxNjE3NCwtNTgzODAyNjEzLDIwMT
+k3OTUwNTFdfQ==
 -->

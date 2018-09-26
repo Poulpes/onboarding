@@ -1,6 +1,7 @@
 # Onboarding
 Here is a couple of things to do and read to get you onboard asap !
 
+
 ## before_action
 Be sure to have a good black and white picture of yourself ! You'll use it as a profile picture for Slack, Trello, GSuite, etc.
 
@@ -218,6 +219,7 @@ You need pen, pencils, papers, screen, HDMI cables, etc. Just tell Thomas !
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYzMDE0MTQsLTYxNjY4NTkxNCwtOT
-Q0NTkwMDY2LC01ODM4MDI2MTMsMjAxOTc5NTA1MV19
+eyJoaXN0b3J5IjpbLTQ3MzQ1OTYwNCwtMTM2NjMwMTQxNCwtNj
+E2Njg1OTE0LC05NDQ1OTAwNjYsLTU4MzgwMjYxMywyMDE5Nzk1
+MDUxXX0=
 -->

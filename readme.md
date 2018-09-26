@@ -142,19 +142,17 @@ Here is a couple
 ### What am I gonna work on ?
 #### Yearly Meeting
 ### Meetings
-### Own Project
+### Side and side Project
 ### What time should I arrive ?
 ### Can I work from home ?
 
 
-### Sociolazing
 ### Social Network
-### Side project
 
 ## A one last thing...
 We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTExNzE3NDAsMjAxOTc5NTA1MV19
+eyJoaXN0b3J5IjpbLTU4MzgwMjYxMywyMDE5Nzk1MDUxXX0=
 -->

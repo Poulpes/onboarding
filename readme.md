@@ -191,7 +191,7 @@ You're more than welcome !
 
 ### Poulpe's Social Networks
 Here are our social networks:
-- Instagram: We're trying 
+- Instagram: @agencepoulpe]We're trying 
 
 ### What time should I arrive ?
 - Arrive before 10am
@@ -212,6 +212,6 @@ You need pen, pencils, papers, screen, HDMI cables, etc. Just tell Thomas !
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTE4NTY0NiwtNjE2Njg1OTE0LC05ND
+eyJoaXN0b3J5IjpbLTY0Mjk1ODUxMSwtNjE2Njg1OTE0LC05ND
 Q1OTAwNjYsLTU4MzgwMjYxMywyMDE5Nzk1MDUxXX0=
 -->

@@ -170,7 +170,7 @@ This planning optimisation occurs more or less on a weekly basis, according to n
 We're setting up biannual meetings to dedicate time to review the past 6 months, discuss achievements, expectations for the upcoming 6 months.
  
 ### Side Projects and Poulpe's activities
-In addition to client's projects, we want to allocate time for everyone to work on side projects. Side Projects are the opportunities to learn new thskills, develop Poulpe's products and services,  are projects
+In addition to client's projects, we want to allocate time for everyone to work on side projects. Side Projects are the opportunities to learn new things, develop Poulpe's tools, products, services, librairies,  refresh yourself. Right now (*September 2018*), we're building a new
 
 ### What time should I arrive ?
 ### Can I work from home ?
@@ -184,6 +184,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NzA3NDczLC01ODM4MDI2MTMsMjAxOT
-c5NTA1MV19
+eyJoaXN0b3J5IjpbLTE4MzY3MDQ3MDIsLTU4MzgwMjYxMywyMD
+E5Nzk1MDUxXX0=
 -->

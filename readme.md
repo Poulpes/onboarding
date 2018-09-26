@@ -142,10 +142,8 @@ Here is a couple of topics related to our daily organisation and life.
 ### What am I gonna work on ?
 When it comes to planning, we're deciding the "who's gonna work on what" by trying to optimise various factors:
 - **Availability**
-	We're trying to 
-
-
-- the level of availability of everyone's in the team
+	Obviously, we're trying to smooth the workload of everyone.
+- 
 - the opportunity to work from A to Z on a project
 - the level of skills required
 - the technical affinity
@@ -165,6 +163,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDAyMDY3ODYsLTU4MzgwMjYxMywyMD
-E5Nzk1MDUxXX0=
+eyJoaXN0b3J5IjpbNTE3MTA0NTM0LC01ODM4MDI2MTMsMjAxOT
+c5NTA1MV19
 -->

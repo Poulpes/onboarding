@@ -174,7 +174,7 @@ In addition to client's projects, we want to allocate time for everyone to work 
 
 We have in mind a couple of other ideas, mainly some tools to help us in our work *(managing invoice, planning, etc.)* but also some small librairies (*rails-crud-redux*) or event website *(X-mas calendar)*.
 
-Apart from building things... we also want to write product or technical related articles. We've juste pu
+Apart from building things... we also want to write product or technical related articles. We've just published [one](https://medium.com/@agencepoulpe/le-marketing-dinfluence-a-son-bar%C3%B4m%C3%A8tre-1caa520c7d50) and we plan to carry on a monthly basis.
 
 ### What time should I arrive ?
 ### Can I work from home ?
@@ -188,6 +188,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDcwMzIxNywtNTgzODAyNjEzLDIwMT
-k3OTUwNTFdfQ==
+eyJoaXN0b3J5IjpbMTU5NTk4MTE5LC01ODM4MDI2MTMsMjAxOT
+c5NTA1MV19
 -->

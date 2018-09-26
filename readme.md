@@ -144,7 +144,7 @@ When it comes to planning, we're deciding the *who's gonna work on what ?* by tr
 - **Availability**
 	Obviously, we're trying to smooth the workload of everyone.
 - **Technical affinity and skills**
-	You are a front-end expert and lover and 
+	You're a frontend expert and you don't want to know what's a migration ? You're not gonna work backend. You're a junior backend dev, you won't be in charge 
 - the opportunity to work from A to Z on a project
 - the level of skills required
 - the technical affinity
@@ -164,6 +164,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjIxNjE3NCwtNTgzODAyNjEzLDIwMT
-k3OTUwNTFdfQ==
+eyJoaXN0b3J5IjpbLTEzMTQ0MTM4NzksLTU4MzgwMjYxMywyMD
+E5Nzk1MDUxXX0=
 -->

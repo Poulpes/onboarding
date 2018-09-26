@@ -189,6 +189,10 @@ The point is, if you want to contribute by:
 
 You're more than welcome !
 
+### Poulpe's Social Networks
+Here are our social networks:
+- Instagram: We're trying 
+
 ### What time should I arrive ?
 - Arrive before 10am
 - Leave after 5 pm
@@ -206,13 +210,8 @@ Don't forget your 🕶️and try to tell us 1 month in advance ! It's just easie
 ### Equipment
 You need pen, pencils, papers, screen, HDMI cables, etc. Just tell Thomas !
 
-
-
-## A one last thing...
-We'll be more than happy to get your feedbacks on this readme
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTA2MTEyNiwtNjE2Njg1OTE0LC05ND
+eyJoaXN0b3J5IjpbLTM1OTE4NTY0NiwtNjE2Njg1OTE0LC05ND
 Q1OTAwNjYsLTU4MzgwMjYxMywyMDE5Nzk1MDUxXX0=
 -->

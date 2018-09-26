@@ -159,11 +159,11 @@ When it comes to planning, we're deciding the *who's gonna work on what ?* by tr
 
 This planning optimisation occurs more or less on a weekly basis, according to new projects, new variables, etc:
 - You can check the **"planned planning"** whenever you want at the root folder of the Team Drive.
-- Weekly breakfast meetings are the opportunity to discuss precisely what's up for the week and less precisely what's coming up for the next weeks.
+- **Weekly breakfast** meetings are the opportunity to discuss precisely what's up for the week and less precisely what's coming up for the next weeks.
 
 ### Meetings
 #### Weekly Meetings
-- Monday 9:30/10 is the 
+- Monday 9:30/10 is the weekly breakfast planning : we share a cup of coffee and a couple of tartines and everyone in turn explain what is  up to 
 #### Yearly Meetings
 ### Meetings
 ### Side and side Project
@@ -179,6 +179,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxOTA0NDksLTU4MzgwMjYxMywyMDE5Nz
-k1MDUxXX0=
+eyJoaXN0b3J5IjpbLTE0NzM5NjY5MjMsLTU4MzgwMjYxMywyMD
+E5Nzk1MDUxXX0=
 -->

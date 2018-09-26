@@ -172,7 +172,7 @@ We're setting up biannual meetings to dedicate time to review the past 6 months,
 ### Side Projects and Poulpe's activities
 In addition to client's projects, we want to allocate time for everyone to work on side projects. Side Projects are the opportunities to learn new skills *(dev/product/marketing)* things, develop Poulpe's tools, products, services, librairies and refresh yourself. Right now (*September 2018*), we're building a new Contact Form Management Service, a.k.a a [GetForm](https://getform.org/) copycat. We should launch a beta version by the end of October.
 
-We have in mind a couple of other ideas, mainly some tools to help us in our work *(managing invoice, planning, etc.)* but also some small librairies (*rails-crud-redux*) or event website *(X-mas calendar)*.
+We have in mind a couple of other ideas, mainly some tools to help us in our work *(managing invoice, planning, etc.)* but also our new website, some small librairies (*rails-crud-redux*) or event website *(X-mas calendar)*.
 
 Apart from building things... we also want to write product or technical related articles. We've just published [one](https://medium.com/@agencepoulpe/le-marketing-dinfluence-a-son-bar%C3%B4m%C3%A8tre-1caa520c7d50) and we plan to carry on a monthly basis. If you fancy writing stuff, you'll have a chance.
 
@@ -180,6 +180,7 @@ The point is, if you want to contribute by:
 - shipping features on Poulpe side projects
 - packaging librairies or tools
 - helping organising parties
+- improving Poulpe's website
 - suggesting/designing/prototyping new products/services
 - writing down articles
 - sharing resources and increasing Poulpe's knowledge base
@@ -191,7 +192,8 @@ You're more than welcome !
 
 ### Poulpe's Social Networks
 Here are our social networks:
-- Instagram: @agencepoulpe]We're trying 
+- Instagram: [@agencepoulpe](https://www.instagram.com/agencepoulpe/), where the cool happen
+- Instagram: [@agencepoulpe](https://www.instagram.com/agencepoulpe/), where the cool happen
 
 ### What time should I arrive ?
 - Arrive before 10am
@@ -212,6 +214,6 @@ You need pen, pencils, papers, screen, HDMI cables, etc. Just tell Thomas !
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Mjk1ODUxMSwtNjE2Njg1OTE0LC05ND
+eyJoaXN0b3J5IjpbLTQzODA4NjU4OSwtNjE2Njg1OTE0LC05ND
 Q1OTAwNjYsLTU4MzgwMjYxMywyMDE5Nzk1MDUxXX0=
 -->

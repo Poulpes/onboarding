@@ -181,9 +181,10 @@ The point is, if you want to contribute by:
 - packaging librairies or tools
 - suggesting/designing/prototyping new products/services
 - writing down articles
-- increasing Poulpe's knowledge base
+- sharing resources and increasing Poulpe's knowledge base
 - presenting us some works
-- 
+- finding new offices !
+- bringing us 
 
 
 ### What time should I arrive ?
@@ -198,6 +199,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk1NTU4MTQsLTk0NDU5MDA2NiwtNT
-gzODAyNjEzLDIwMTk3OTUwNTFdfQ==
+eyJoaXN0b3J5IjpbLTMwMDQ5OTY1MCwtOTQ0NTkwMDY2LC01OD
+M4MDI2MTMsMjAxOTc5NTA1MV19
 -->

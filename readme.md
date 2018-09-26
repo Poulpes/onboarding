@@ -172,7 +172,7 @@ We're setting up biannual meetings to dedicate time to review the past 6 months,
 ### Side Projects and Poulpe's activities
 In addition to client's projects, we want to allocate time for everyone to work on side projects. Side Projects are the opportunities to learn new skills (dev/product/marketing) things, develop Poulpe's tools, products, services, librairies and refresh yourself. Right now (*September 2018*), we're building a new Contact Form Management Service, a.k.a a [GetForm](https://getform.org/) copycat. We should launch a beta version by the end of October.
 
-We have in mind a couple of other ideas, mainly some tools to help us in our work (managing invoice, planning, etc.) but 
+We have in mind a couple of other ideas, mainly some tools to help us in our work *(managing invoice, planning, etc.)* but also maybe some small librairie
 
 ### What time should I arrive ?
 ### Can I work from home ?
@@ -186,6 +186,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwODk5NzE3LC01ODM4MDI2MTMsMjAxOT
-c5NTA1MV19
+eyJoaXN0b3J5IjpbLTczNTg0OTYwMiwtNTgzODAyNjEzLDIwMT
+k3OTUwNTFdfQ==
 -->

@@ -157,8 +157,12 @@ When it comes to planning, we're deciding the *who's gonna work on what ?* by tr
 - **Team rotation**
 	Ideally we want everyone to have the opportunity to work with everyone.
 
+This planning optimisation 
+
 ### Meetings
-#### Yearly Meeting
+#### Weekly Meetings
+- Monday 9:30/10 is the 
+#### Yearly Meetings
 ### Meetings
 ### Side and side Project
 ### What time should I arrive ?
@@ -173,6 +177,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjAxMjAyLC01ODM4MDI2MTMsMjAxOT
+eyJoaXN0b3J5IjpbNTQ3NzAyMzg5LC01ODM4MDI2MTMsMjAxOT
 c5NTA1MV19
 -->

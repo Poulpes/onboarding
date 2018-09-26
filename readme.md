@@ -204,16 +204,15 @@ Yes you can.
 Don't forget your 🕶️and try to tell us 1 month in advance ! It's just easier to arrange the team planning.
 
 ### Equipment
-You need pen, pencils, papers, screen, HDMI cables, etc. Just tell Thomas.
+You need pen, pencils, papers, screen, HDMI cables, etc. Just tell Thomas !
 
 
-### Social Network
 
 ## A one last thing...
 We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjU3MzgzNSwtNjE2Njg1OTE0LC05ND
+eyJoaXN0b3J5IjpbLTk2NTA2MTEyNiwtNjE2Njg1OTE0LC05ND
 Q1OTAwNjYsLTU4MzgwMjYxMywyMDE5Nzk1MDUxXX0=
 -->

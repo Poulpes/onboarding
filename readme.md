@@ -140,7 +140,11 @@ When creating/editing other documents we tend to stick to Google Apps: Google Do
 Here is a couple of topics related to our daily organisation and life.
 
 ### What am I gonna work on ?
-When it comes to planning, we're trying to optimise  :
+When it comes to planning, we're deciding the "who's gonna work on what" by trying to optimise various factors:
+- **Availability**
+	We're trying to 
+
+
 - the level of availability of everyone's in the team
 - the opportunity to work from A to Z on a project
 - the level of skills required
@@ -161,6 +165,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzQzMDQxMywtNTgzODAyNjEzLDIwMT
-k3OTUwNTFdfQ==
+eyJoaXN0b3J5IjpbLTE2MDAyMDY3ODYsLTU4MzgwMjYxMywyMD
+E5Nzk1MDUxXX0=
 -->

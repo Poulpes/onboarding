@@ -198,7 +198,7 @@ You're more than welcome !
 Yes you can. Not on a regular basis but if you want to work from home from time to time. No problemo.
 
 ### Holidays
-Don't forget your 🕶️and try to tell us in adavance ! It's just easier to Take Yes you can. Not on a regular basis but if you want to work from home from time to time. No problemo.
+Don't forget your 🕶️and try to tell us 1 month in advance ! It's just easier to arrange the team planning. Take Yes you can. Not on a regular basis but if you want to work from home from time to time. No problemo.
 
 ### Equipment
 
@@ -210,6 +210,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzEyNjcwODcsLTk0NDU5MDA2NiwtNT
-gzODAyNjEzLDIwMTk3OTUwNTFdfQ==
+eyJoaXN0b3J5IjpbLTYxNjY4NTkxNCwtOTQ0NTkwMDY2LC01OD
+M4MDI2MTMsMjAxOTc5NTA1MV19
 -->

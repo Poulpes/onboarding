@@ -150,10 +150,11 @@ When it comes to planning, we're deciding the *who's gonna work on what ?* by tr
 	- You're a junior backend dev, you won't be in charge of the app architecture *...but you'll have time to discuss it with the lead dev*.
 
 	In addition, we're trying to meet your development expectation:  You're backend but you're keen on learning some frontend, we'll do our best to accommodate it. This will happen as long as :
-	- you'll tell us ;) 2) it does not jeopardise the whole organisation .  meet your expectation. 
+	- you'll tell us ;) (👇)
+	- it does not jeopardise the whole planning
+	- we have the opportunities
+
 - the opportunity to work from A to Z on a project
-- the level of skills required
-- the technical affinity
 - 
 #### Yearly Meeting
 ### Meetings
@@ -170,6 +171,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDE3NTkyMywtNTgzODAyNjEzLDIwMT
+eyJoaXN0b3J5IjpbMTg2MjcxMDY4NywtNTgzODAyNjEzLDIwMT
 k3OTUwNTFdfQ==
 -->

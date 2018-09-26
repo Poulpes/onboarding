@@ -154,8 +154,10 @@ When it comes to planning, we're deciding the *who's gonna work on what ?* by tr
 	- it does not jeopardise the whole planning
 	- we have the opportunities
 
-- the opportunity to work from A to Z on a project
-- 
+- **Team rotation**
+	Ideally we want everyone to have the opportunity to work with everyone.
+
+### Meetings
 #### Yearly Meeting
 ### Meetings
 ### Side and side Project
@@ -171,6 +173,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjcxMDY4NywtNTgzODAyNjEzLDIwMT
-k3OTUwNTFdfQ==
+eyJoaXN0b3J5IjpbLTcxMjAxMjAyLC01ODM4MDI2MTMsMjAxOT
+c5NTA1MV19
 -->

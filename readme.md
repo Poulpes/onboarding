@@ -141,9 +141,11 @@ Here is a couple of topics related to our daily organisation and life.
 
 ### What am I gonna work on ?
 When it comes to planning, we're trying to optimise  :
-- the level of availability of everyone's in the Poulpeteam
+- the level of availability of everyone's in the team
 - the opportunity to work from A to Z on a project
-- the level 
+- the level of skills required
+- the technical affinity
+- 
 #### Yearly Meeting
 ### Meetings
 ### Side and side Project
@@ -159,6 +161,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc3NTUyMCwtNTgzODAyNjEzLDIwMT
+eyJoaXN0b3J5IjpbMTk0NzQzMDQxMywtNTgzODAyNjEzLDIwMT
 k3OTUwNTFdfQ==
 -->

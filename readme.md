@@ -158,8 +158,8 @@ When it comes to planning, we're deciding the *who's gonna work on what ?* by tr
 	Ideally we want everyone to have the opportunity to work with everyone.
 
 This planning optimisation occurs more or less on a weekly basis, according to new projects, new variables, etc:
-- you can check the "planned planning" whenever you want at the root folder of the Team Drive
--   We currently have a Google Sheet Planning at the root of the Team Drive.
+- You can check the **"planned planning"** whenever you want at the root folder of the Team Drive.
+- Weekly breakfast meetings are the opportunity to discuss precisely what's up for the week and less precisely what's coming up for the next weeks.
 
 ### Meetings
 #### Weekly Meetings
@@ -179,6 +179,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzIxNTE3NiwtNTgzODAyNjEzLDIwMT
-k3OTUwNTFdfQ==
+eyJoaXN0b3J5IjpbOTgxOTA0NDksLTU4MzgwMjYxMywyMDE5Nz
+k1MDUxXX0=
 -->

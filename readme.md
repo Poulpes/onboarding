@@ -193,7 +193,8 @@ You're more than welcome !
 ### Poulpe's Social Networks
 Here are our social networks:
 - Instagram: [@agencepoulpe](https://www.instagram.com/agencepoulpe/), where the cool happen
-- Facebook: [Poulpe](https://www.facebook.com/agencepoulpe/), where events and news are announed
+- Facebook: [Poulpe](https://www.facebook.com/agencepoulpe/), where events and news are announced
+- Linkedin: 
 
 ### What time should I arrive ?
 - Arrive before 10am
@@ -214,6 +215,6 @@ You need pen, pencils, papers, screen, HDMI cables, etc. Just tell Thomas !
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0MzQ2NjksLTYxNjY4NTkxNCwtOTQ0NT
+eyJoaXN0b3J5IjpbNjc5NjQ0NzcsLTYxNjY4NTkxNCwtOTQ0NT
 kwMDY2LC01ODM4MDI2MTMsMjAxOTc5NTA1MV19
 -->

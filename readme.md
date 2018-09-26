@@ -143,11 +143,13 @@ Here is a couple of topics related to our daily organisation and life.
 When it comes to planning, we're deciding the *who's gonna work on what ?* by trying to optimise various factors:
 - **Availability**
 	Obviously, we're trying to smooth the workload of everyone.
+
 - **Technical affinity and skills**
 	The basics:
 	- You're a frontend expert and you don't want to know what's a migration ? You're not gonna work backend.
-	- You're a junior backend dev, you won't be in charge of the app architecture *but you'll have time to discuss it with the lead dev*.
-You're backend but you're keen on learning some frontend, we'll try to meet your expectation. 
+	- You're a junior backend dev, you won't be in charge of the app architecture *...but you'll have time to discuss it with the lead dev*.
+
+	In addition, we're trying to meet your expectation:  You're backend but you're keen on learning some frontend, we'll do our try to acccomodate  meet your expectation. 
 - the opportunity to work from A to Z on a project
 - the level of skills required
 - the technical affinity
@@ -167,6 +169,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDcwNTk5ODcsLTU4MzgwMjYxMywyMD
+eyJoaXN0b3J5IjpbLTE3ODYyNTgwMTAsLTU4MzgwMjYxMywyMD
 E5Nzk1MDUxXX0=
 -->

@@ -149,7 +149,7 @@ When it comes to planning, we're deciding the *who's gonna work on what ?* by tr
 	- You're a frontend expert and you don't want to know what's a migration ? You're not gonna work backend.
 	- You're a junior backend dev, you won't be in charge of the app architecture *...but you'll have time to discuss it with the lead dev*.
 
-	In addition, we're trying to meet your expectation:  You're backend but you're keen on learning some frontend, we'll do our try to acccomodate  meet your expectation. 
+	In addition, we're trying to meet your development expectation:  You're backend but you're keen on learning some frontend, we'll do our best to acccomodate it, as long as 1) you'll tell us ;) 2) it does not jeopardize .  meet your expectation. 
 - the opportunity to work from A to Z on a project
 - the level of skills required
 - the technical affinity
@@ -169,6 +169,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYyNTgwMTAsLTU4MzgwMjYxMywyMD
-E5Nzk1MDUxXX0=
+eyJoaXN0b3J5IjpbLTI5NjEwMTkxLC01ODM4MDI2MTMsMjAxOT
+c5NTA1MV19
 -->

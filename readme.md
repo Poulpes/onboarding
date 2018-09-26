@@ -135,9 +135,9 @@ With these logs, the project manager consolidate on a weekly basis the time alre
 #### Others
 When creating/editing other documents we tend to stick to Google Apps: Google Docs, Google Sheet, Google Slides.
 
-## Poulpe's  Life
+## A Poulpe's  Life
 
-Here is a couple 
+Here is a couple of topics related to our daily organisation and life !
 
 ### What am I gonna work on ?
 #### Yearly Meeting
@@ -154,5 +154,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzgwMjYxMywyMDE5Nzk1MDUxXX0=
+eyJoaXN0b3J5IjpbMTQwMTMzNjIyNCwtNTgzODAyNjEzLDIwMT
+k3OTUwNTFdfQ==
 -->

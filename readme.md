@@ -143,7 +143,8 @@ Here is a couple of topics related to our daily organisation and life.
 When it comes to planning, we're deciding the "who's gonna work on what" by trying to optimise various factors:
 - **Availability**
 	Obviously, we're trying to smooth the workload of everyone.
-- 
+- **Technical affinity and skills**
+	If you're  
 - the opportunity to work from A to Z on a project
 - the level of skills required
 - the technical affinity
@@ -163,6 +164,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3MTA0NTM0LC01ODM4MDI2MTMsMjAxOT
+eyJoaXN0b3J5IjpbLTYyODU1NjA2LC01ODM4MDI2MTMsMjAxOT
 c5NTA1MV19
 -->

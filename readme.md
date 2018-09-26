@@ -157,7 +157,7 @@ When it comes to planning, we're deciding the *who's gonna work on what ?* by tr
 - **Team rotation**
 	Ideally we want everyone to have the opportunity to work with everyone.
 
-This planning optimisation 
+This planning optimisation occurs more or less on a weekly basis, according to new projects, new variables, etc.. We currently have a Google Sheet Planning at the (root )
 
 ### Meetings
 #### Weekly Meetings
@@ -177,6 +177,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NzAyMzg5LC01ODM4MDI2MTMsMjAxOT
+eyJoaXN0b3J5IjpbMjM5ODgyNDg1LC01ODM4MDI2MTMsMjAxOT
 c5NTA1MV19
 -->

@@ -139,13 +139,14 @@ When creating/editing other documents we tend to stick to Google Apps: Google Do
 
 Here is a couple 
 
-### What atime should I arrive
-### What time should I arrive
-### HomeOffice
-### Yearly Meeting
+### What am I gonna work on ?
+#### Yearly Meeting
 ### Meetings
-### Agenda
 ### Own Project
+### What time should I arrive ?
+### Can I work from home ?
+
+
 ### Sociolazing
 ### Social Network
 ### Side project
@@ -155,5 +156,5 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2NTUyMTk0LDIwMTk3OTUwNTFdfQ==
+eyJoaXN0b3J5IjpbLTE0MTExNzE3NDAsMjAxOTc5NTA1MV19
 -->

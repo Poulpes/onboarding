@@ -190,7 +190,9 @@ The point is, if you want to contribute by:
 You're more than welcome !
 
 ### What time should I arrive ?
-
+- Arrive before 10am
+- Leave after 5 pm
+- Do your time
 ### Can I work from home ?
 ### Equipment
 
@@ -202,6 +204,6 @@ We'll be more than happy to get your feedbacks on this readme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjMyODExMiwtOTQ0NTkwMDY2LC01OD
+eyJoaXN0b3J5IjpbLTEwMDI1MjI5OCwtOTQ0NTkwMDY2LC01OD
 M4MDI2MTMsMjAxOTc5NTA1MV19
 -->

@@ -1,626 +1,217 @@
-# Resteo Api v1
+# Onboarding
+Here is a couple of things to do and read to get you onboard asap !
 
 ## Généralités
 
-### Version API et `base_url`
-L'API resteo migre vers sa version `v1`. Tous les calls à la v1 se feront dorénavant sur la base_url: `https://resteo-rails-production.herokuapp.com/api/v1`
+## before_action
+Be sure to have a good black and white picture of yourself ! You'll use it as a profile picture for Slack, Trello, GSuite, etc.
 
-## Endpoints
+### Technical Setup
+There is no strict technical setup imposed, you can work with your custom shortcuts and own fancy terminal as long as it's convenient for you and the rest of the team:
+- to version you code with **git** and collaborate with **Github**
+- to work on Ruby On Rails projets with ruby versions installed and managed by **[rbenv](https://github.com/rbenv/rbenv)**.
+	*The ruby and rails versions will vary from project to project. You'll have to install them accordingly.*
+- to work on [Yarn](https://yarnpkg.com/en/) and [npm](https://www.npmjs.com/) package managed projects, either as a part of a larger Rails application or as a pure front end app.
 
-Les endpoints concernés sont:
+Same thing apply for your editor: Sublime, Atome whatever you want as along as you're efficient with it :)
 
-- `/stats?request_params` Principales statistiques
-- `/basket_breakdowns?request_params` Statistiques de décomposition du ticket moyen
-- `/events?request_params`Evénements
-- `/weathers?request_params`Données météo
-- `/competition?request_params`Stats de concurrences
+At this time *(September 2018)* everyone in the team has a configuration 100% inspired from **[Le Wagon Setup](https://github.com/lewagon/setup)** : **Do check it !**
 
-Ces endpoints seront gérés en **GET** avec des params dans l'URL. A priori, tous ces endpoints accepteront les mêmes `request_params`. Néanmoins, chaque endpoint n'a pas besoin d'accepter ces nouveaux `request_params` avec le même niveau de priorité. `/stats` et `/basket_breakdowns` doivent fonctionner avec le nouveau jeu de `request_params` pour la nouvelle version de Resteo d'octobre (release `CPOCC`). Les autres endpoints peuvent rester identique à la v0. **Il faudra le préciser au front en revanche.**
+### Poulpe Coding Conventions
+There's no such thing right now ! For some projects we took time to write down some principles... for some others we didn't... some projects are brand new, some others... are not. Defining some conventions is on the agenda. Right now and generally speaking:
+- for RoR we tend to agree with [these best practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/). (except for the *Fat Models, Skinny Controllers and Concerns* principle)
+- for pure frontend app (React) we tend to like the [standard.js](https://standardjs.com/) convention
+- for CSS we try to follow a component based approach and we try to take time at the start of the CSS dev to define the UIKit of the project.
 
-## Request Params
+At last, we're not big on linting and editor plugin and other cool stuff... so if you 're keen on rubocoping, let's share that on the upcoming projects !
 
-### Généralités
-Les `request_params` doivent permettre de décrire requête d'un tableau croisé dynamique en séparant les aspects temporels du reste des aspects data. Les paramètres utilisés seront:
+### GitHub
+We use GitHub to collaborate.
 
-- `refrence_date`: Date de référence
-- `where_period`: Type de période d'observation demandé. A combiner avec la date de référence.
-- `group_period`: Split de regroupement de la `where_period`
-- `compare_period`: Type de période de comparaison
-- `compare_shift`: Shift de la période de comparaison. A combiner avec la `compare_period`
-- `with_growth`: Flag de présence des données de growth par rapport à la `compare_period`
-- `where_data`: Filtres de colonnes data à appliquer
-- `group_data`: Split de regroupement des data 
+Right now *(Septembre 2018)*, the [Poulpe GitHub](https://github.com/Poulpes) is not an organisation account. We'll transition to an Organisation Account soon.
 
-### `reference_date`
-- Nature: Date de référence
-- Format: `YYYYMMDD` **Ca vous embête si on s'affranchit des `-`? Je préconise plus loin d'utiliser des clés dates et je préfèrerais tout sous la forme YYYYMMDD**
-- Mandatory: Yes. 
+In the meantime, repo are created by the lead dev and access are given repo/repo by the lead dev.
 
-### `where_period`
-- Nature: Type de période d'observation demandé.
-- Format: String parmi `['iso_day', 'week', 'month', 'year']`
-- Mandatory: Yes. 
-`reference_date` et `where_period` décrivent intégralement la période d'analyse demandée, qu'on appelle ici la `reference_period`.
+On some projects, we use GitHub Wiki to write down app documentation. Generally speaking, we're trying to document our apps more and more through good PR and `.readme` files. (Check StackEdit 👇)
 
-### `group_period`
-- Nature: Split de regroupement de la `where_period`. On demande une `where_period='month'` avec un `group_period='week'` par exemple.
-- Format: String parmi `['iso_day', 'week', 'month', 'year']`
-- Mandatory: No.
+### Heroku
+80% of our project are hosted on Heroku so make sure to have an account on it : either a new one with your *@poulpe.co* email or your current heroku account.
 
-**Notes**: Lorsqu'on cherche a voir les données pour une semaine donnée sans breakdown par jour, on aura bien juste un `where_period=week` et **pas de `group_period`.**
+The `heroku-cli` tools come handy for working on our projects. Set up instructions are 👉https://devcenter.heroku.com/articles/heroku-cli.
 
-### `compare_period`
-- Nature: Type de période de comparaison.
-- Format: String parmi `['year', 'where_period']`. Pour la release `CPOCC`, on aura toujours `year`.
-- Mandatory: No.
+The other 20% are either hosted on GitHub Pages, Scalingo or directly by the client.
 
-### `compare_shift`
-- Nature: Shift de la période de comparaison
-- Format: Entier relatif. En release `CPOCC`, on aura toujours `compare_shift=-1`  et `compare_period='year'`. Autrement dit, on fera toujours de la comparaison par rapport à l'année dernière.
-- Mandatory: No
+SO, postmark, sendgrid, papertrail, amazon, cloudinary, etc. andfor desogns
 
-### `with_growth`
-- Nature: Flag de présence des données de growth par rapport à la `compare_period`
-- Format: Boolean. Si `true`, les données de croissance entre la `reference_period` et la `comare_period` sont fournies dans la payload.
-- Mandatory: No
+### StackEdit
+[StackEdit](https://stackedit.io) comes handy when to writing down your dev technical notes, preparing your PR, `.readme` files. It's free to use and you can sync files with Google Drive and GitHub.
 
-### `where_data`
-- Nature: Filtres de colonnes data à appliquer
-- Format: Object dont les keys sont +/- les noms de colonnes de la DB et les values des lists de valeurs possibles. Clés possibles:
-	````
-	{
-		restaurant_ids: [1, 2, 3, ],
-		serving_types: ['lunch', 'dinner'],
-		day_types: ['week', 'weekend'],
-		consumption_place_type: ['onsite', 'takeway', 'delivery']
-	}
-	````
-	Si la clé n'est pas présente, cela veut dire qu'on souhaite avoir la donnée pour toutes les valeurs de cette clé. Ainsi `where_data={servings_types:['lunch']}` signifie qu'on souhaite les stats **tout restaurant confondu**, c'est à dire les stats **total**, pour tout type de journée et tout type de `consumption_place`. A l'inverse `where_data={restaurant_ids:[2], serving_types:['lunch']}` , signifie que l'on souhaite les stats pour le restaurant_id 2 au déjeuner.
-- Mandatory: No
+### Other tools and services
 
-### `group_data`
-- Nature: Split de regroupement des data 
-- Format: Liste de nom de colonnes de grouping. A priori, valeurs parmi les clés possibles pour la `where_data`: `['restaurant_ids', 'serving_types', 'day_types', 'consumption_place_type', 'waiters']`
-- Mandatory: No
+[PostmarkApp](https://postmarkapp.com/), [SendGrid](https://sendgrid.com/), [Cloudinary](https://cloudinary.com/), [AWS](https://aws.amazon.com/fr/), [Gandi](https://www.gandi.net/fr), etc. are some other services, you'll come across.
 
-### Illustration Maquettes
+### Design
 
-Voir PJ des illustrations
+[Sketch](https://www.sketchapp.com/), [Invision](https://www.invisionapp.com/), [Figma](https://www.figma.com/)... depending on the projects, we may use different solution. 80% of the time we end up working with Sketch files.
 
-## Réponses
+## Project Management
 
-### Généralités
+### Principles
+Each project is managed by a single project manager. 95% of the time, the project manager is also the lead dev of the project. (S)he is in charge of:
+- dealing with the clients (requirements, explanations, more explanations, always more explanations)
+- meeting the deadlines and getting everyone's concerned on time
+- make sure everyone knows his/her what/why/when to do
+- organising the dev among the team
+- the architecture of the app an the main technical choices
+- reading/commenting/merging the PR and deploying in prod
+- following the time spent on the project
 
-Toutes les réponses contiendront une première clé request_params avec les params de la request.
+### Tools
+Regarding tools and processes:
+- Trello is our number 1 tool when managing project.
+- Internal communication goes through Slack
+- Emails are for external communication: Poulpes <-> Client
+- Code is on GitHub other materials are stored on Google Poulpe's Team Drives
+- Planning and scheduling is made easy with a well-informed Google Calendar
 
-### Nesting et keys
+#### Trello
+**Make sure to create an account on [Trello](https://trello.com) with your @poulpe.co address**. We'll add you to the team.
 
-Les formes de payload sont à voir comme une vue ligne des données d'un TCD. La hiérarchie des clés de la data suit la hiérarchie de la requête des clés de `compare_period` puis de grouping, à savoir `group_period`, puis les clés associées aux `group_data`.
+Every project has its own board. The precise name and number of lists may vary from projects to projects but you'll aways somehow find:
+- an "INPUT" or "NOTES" card giving access to input data of the projects: requirements, maquettes, notes, etc.
+- a backlog list
+- an in-progress list
+- a done list
 
-**Dans la mesure du possible, je préconise d'avoir des clés formées sur la date YYYYMMDD de début des périodes. Cela devrait nous permettre de passer plus de contexte assez simplement**. 
+We've been trying some other tools (GitHub issues, Jira, etc.) but Trello feels the more practical/convenient/simple to collaborate on each project and to onboard client in the project management process.
 
-Pour une requête avec les request_params suivant (**! EN 2015 on a une semaine 53**):
-````
-request_params = {
-	reference_date: '20161228',
-	where_period: 'month',
-	group_period: 'week',
-	compared_period: 'year',
-	compare_shift: -1,
-	with_growth: true,
-	group_data: ['restaurant_ids', 'day_types']
-}
-````
-La réponse prendra la forme suivante
-````
-{
-	message: {
-		request_params: request_params,
-		20160101: {
-			20161128: { // week 48 en 2016
-				1 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-				2 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-			},
-			20161205: { // week 49 en 2016
-				1 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-				2 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-			},
-			20161212: { // week 50 en 2016
-				1 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-				2 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-			},
-			20161219: { // week 51 en 2016
-				1 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-				2 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-			},
-			20161226: { // week 52 en 2016
-				1 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-				2 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-			},
-	    },
-		20150101: {
-			20151123: { // week 48 en 2015
-				1 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-				2 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-			},
-			20151130: { // week 49 en 2015
-				1 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-				2 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-			},
-			20151207: { // week 50 en 2015
-				1 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-				2 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-			},
-			20151214: { // week 51 en 2015
-				1 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-				2 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-			},
-			20151221: { // week 52 en 2015
-				1 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-				2 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-			},
-			20151228: { // week 53 en 2015
-				1 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-				2 :{
-					week: { net_metrics },		
-					weekend: { net_metrics }
-				},
-			},
-	    },
-		growth: {
-			20161128: { // week 48 en 2016
-				1 :{
-					week: { growth_to_date_metrics },		
-					weekend: { growth_to_date_metrics }
-				},
-				2 :{
-					week: { growth_to_date_metrics },		
-					weekend: { growth_to_date_metrics }
-				},
-			},
-			20161205: { // week 49 en 2016
-				1 :{
-					week: { growth_to_date_metrics },		
-					weekend: { growth_to_date_metrics }
-				},
-				2 :{
-					week: { growth_to_date_metrics },		
-					weekend: { growth_to_date_metrics }
-				},
-			},
-			20161212: { // week 50 en 2016
-				1 :{
-					week: { growth_to_date_metrics },		
-					weekend: { growth_to_date_metrics }
-				},
-				2 :{
-					week: { growth_to_date_metrics },		
-					weekend: { growth_to_date_metrics }
-				},
-			},
-			20161219: { // week 51 en 2016
-				1 :{
-					week: { growth_to_date_metrics },		
-					weekend: { growth_to_date_metrics }
-				},
-				2 :{
-					week: { growth_to_date_metrics },		
-					weekend: { growth_to_date_metrics }
-				},
-			},
-			20161226: { // week 52 en 2016
-				1 :{
-					week: { growth_to_date_metrics },		
-					weekend: { growth_to_date_metrics }
-				},
-				2 :{
-					week: { growth_to_date_metrics },		
-					weekend: { growth_to_date_metrics }
-				},
-			},
-	    },		
-	},
-	code: 200
-}
-````
+#### Slack
+We use Slack... a lot for internal communications *(project related, agency related, life related, etc.)* and even for external communication with some clients.
+- You'll be invited to join our slack: https://les-poulpes.slack.com/ with your *@poulpe.co* address.
+- Be sure to download the Desktop App (https://slack.com/intl/fr-fr/downloads/osx)
+- Be sure to setup your profiles with your B&W profile picture *(see before_action ☝️)*.
 
-**Remarques semaine 52/53/01:** 
-- Avec des clés "fullcontext", `20181205` : le front peut plus facilement ordonner les clés dans le temps (`48, 49, 50, 51, 52, 01`; `53, 01, 02, 03, 04`). 
-- Dans la réponse j'ai supposé que pour 2016 on sortait toutes les semaines de décembre 2016 (de 48 à 52), que pour 2015 on sortait toutes les semaines de décembre 2015 (de 49 à 53) et que pour la growth on sortait toutes les semaines de 2016 par rapport aux semaines de 2015, autrement dit de 48 à 52. **Est-ce vrai ?** Avec cette logique quand on demande du décembre 2015 (reference_date=20181224) par rapport à du 2014, on devrait avoir dans la clé growth les semaines 49 à 53 avec une des valeurs de growth égales à 0 pour la semaine 53. **Est-ce vrai ?**
+#### Email
+You should have received an invitation to complete the creation of your *first_name@poulpe.co* GSuite account. You'll be using this email address for external communication and access to various service.
 
-### Absence de clé de grouping
+Using an email client or the Gmail interface, is up to you ! Instructions to set up your client can be found [here](https://support.google.com/mail/answer/7126229?visit_id=636734694420902249-1983367045&rd=1).
 
-**Les clés de grouping ne sont pas obligatoires dans les request_params et non obligatoire dans les payloads de réponse. On retrouvera des clés de grouping dans les payloads de réponse si les request_params en contenaient.** Typiquement pour les infos de synthèse sans breakdown répondant aux request_params suivant:
-````
-{
-	reference_date: 20180328,
-	where_period: 'month',
-	compare_period: 'year',
-	compare_shift: -1,
-	with_growth: true,
-	where_data: {restaurant_ids:[1]},
-````
-la réponse prendra la forme suivante:
-````
-{
-	message: {
-		request_params,
-		20180101: {
-			net_metrics
-		}
-		20170101: {
-			net_metrics
-		}
-		growth: {
-			growth_to_date_metrics
-		}
-	},
-	code: 200
-}
-````
- 
-### net_metrics
+#### Drive
+With your *@poulpe.co*  account you'll have access to our Team Work Drive. Each project has its own Drive Folder account with Input Data (requirements, mockup, etc.).
 
-Les net_metrics correspondent aux metrics métiers nets. Elles diffèrent selon les endpoints. Pour le endpoint `/stats `, elles correspondent essentiellement à total_sales, total_covers, average_cover et average_daily_sales. 
-````
-net_metrics = {
-	calendar_start_date: 20180328, // start of the reference_period (-> reference_date * where_period)
-	calendar_end_date: 20180328, // end of the reference_period (-> reference_date * where_period)
-	data_start_date: 20180328, // first day taken into account for metrics calculation
-	data_end_date: 20180328, // last day taken into account for metrics calculation
-	days_count: 4, // number of days taken into account for metrics calculation
-	total_sales: 4567,
-	total_covers: 445,
-	average_cover: 48,
-	average_daily_sales: 480
-}
-````
+If you need to create materials *(other than code !)* such as explanatory notes, commented mockups, dev notes, data exports, etc.. 2 options:
+1) It's only fo you ! It does not make any sense to share it with the rest of the team -> **Host it wherever you want but not in the Poulpe drive**
+2) It makes sense to share it with the rest of the team... or someone may find it useful later on -> **Do store it in the `Ressources` folder of the project in the team drives**
 
-### growth_to_date_metrics
+If you don't know, default to option 2.
 
-Les growth_to_date_metrics correspondent aux points de croissance entre la reference_period (`reference_date * where_period`) et la `compare_period`. Elles s'expriment en % et se calculent à date. Elles diffèrent selon les endpoints. Pour le endpoint `/stats `, elles correspondent essentiellement à total_sales_growth, total_covers_growth, average_cover_growth et average_daily_sales_growth. 
-````
-growth_to_date_metrics = {
-	calendar_start_date: 20180328, // start of the reference_period (-> reference_date * where_period)
-	calendar_end_date: 20180328, // end of the reference_period (-> reference_date * where_period)
-	data_start_date: 20180328, // first day taken into account for growth metrics calculation
-	data_end_date: 20180328, // last day taken into account for growth metrics calculation
-	days_count: 4, // number of days taken into account for growth metrics calculation
-	total_sales_growth: 0.45,
-	total_covers_growth: 0.23,
-	average_cover_growth: 0.7,
-	average_daily_sales_growth: 0.34
-}
-````
+We encourage you to **sync/stream** the team drives to your local drive with the **Google Drive File Stream**. To do that:
+- Install Google Drive File Stream either:
+	- online: https://support.google.com/drive/answer/7329379 **(without uninstalling Google Drive 👇)**
+	- with your terminal: `$ brew cask install google-drive-file-stream`
+- Connect your *@poulpe.co* account and start syncing
 
-### Exemples
+If you want to keep your Personal Google Drive Back Up and Sync functionalities: no problem. Just be sure to keep the Google Drive Back Up and Sync add-on installed and connect to your Google personal account.
 
-#### "Synthèse" Restaurant 1 Mars 2018
-````
-request_params = {
-	reference_date: 20180328,
-	where_period: 'month',
-	compare_period: 'year',
-	compare_shift: -1,
-	with_growth: true,
-	where_data: {restaurant_ids:[1]},
-````
-la réponse prendra la forme suivante:
-````
-{
-	message: {
-		request_params: {
-			reference_date: 20180328,
-			where_period: 'month',
-			compare_period: 'year',
-			compare_shift: -1,
-			with_growth: true,
-			where_data: {restaurant_ids:[1]},
-		},
-		20180101: {
-			calendar_start_date: 20180322,
-			calendar_end_date: 20180329,
-			data_start_date: 20180322,
-			data_end_date: 20180329,
-			days_count: 4,
-			total_sales: 4567,
-			total_covers: 445,
-			average_cover: 48,
-			average_daily_sales: 480
-		}
-		20170101: {
-			calendar_start_date: 20170320,
-			calendar_end_date: 20170328,
-			data_start_date: 20170323,
-			data_end_date: 20170328,
-			days_count: 3,
-			total_sales: 3167,
-			total_covers: 245,
-			average_cover: 38,
-			average_daily_sales: 480
-		}
-		growth: {
-			calendar_start_date: 20180322,
-			calendar_end_date: 20180329,
-			data_start_date: 20180322,
-			data_end_date: 20180329,
-			days_count: 4,
-			total_sales_growth: 0.45,
-			total_covers_growth: 0.23,
-			average_cover_growth: 0.7,
-			average_daily_sales_growth: 0.34
-		}
-	},
-	code: 200
-}
-````
+#### Calendar
+We use Google Calendar for planning and scheduling purpose. With your *@poulpe.co* you'll have access to:
+- everyone's calendar
+- the team calendar (named the Team Calendar / poulpe.co_8m31vtbdv5k9o20ck8r7m2emfg@group.calendar.google.com)
 
-#### "Synthèse" Multi Restaurant Mars 2018
-````
-request_params = {
-	reference_date: 20180328,
-	where_period: 'month',
-	compare_period: 'year',
-	compare_shift: -1,
-	with_growth: true,
-	group_data: ['restaurant_ids']
-````
-la réponse prendra la forme suivante:
-````
-{
-	message: {
-		request_params: {
-			reference_date: 20180328,
-			where_period: 'month',
-			compare_period: 'year',
-			compare_shift: -1,
-			with_growth: true,
-			group_data: ['restaurant_ids']
-		},
-		20180101: {
-			1: {
-				calendar_start_date: 20180320,
-				calendar_end_date: 20180328,
-				data_start_date: 20180323,
-				data_end_date: 20180328,
-				days_count: 3,
-				total_sales: 3167,
-				total_covers: 245,
-				average_cover: 38,
-				average_daily_sales: 480			
-			},
-			2: {
-				calendar_start_date: 20180320,
-				calendar_end_date: 20180328,
-				data_start_date: 20180323,
-				data_end_date: 20180328,
-				days_count: 3,
-				total_sales: 3167,
-				total_covers: 245,
-				average_cover: 38,
-				average_daily_sales: 480			
-			}
-		}
-		20170101: {
-			1: {
-				calendar_start_date: 20170320,
-				calendar_end_date: 20170328,
-				data_start_date: 20170323,
-				data_end_date: 20170328,
-				days_count: 3,
-				total_sales: 3167,
-				total_covers: 245,
-				average_cover: 38,
-				average_daily_sales: 480			
-			},
-			2: {
-				calendar_start_date: 20170320,
-				calendar_end_date: 20170328,
-				data_start_date: 20170323,
-				data_end_date: 20170328,
-				days_count: 3,
-				total_sales: 3167,
-				total_covers: 245,
-				average_cover: 38,
-				average_daily_sales: 480			
-			}
-		}
-		growth: {
-			1: {
-				calendar_start_date: 20170320,
-				calendar_end_date: 20170328,
-				data_start_date: 20170323,
-				data_end_date: 20170328,
-				days_count: 3,
-				total_sales_growth: 0.45,
-				total_covers_growth: 0.23,
-				average_cover_growth: 0.7,
-				average_daily_sales_growth: 0.34
-			},
-			2: {
-				calendar_start_date: 20170320,
-				calendar_end_date: 20170328,
-				data_start_date: 20170323,
-				data_end_date: 20170328,
-				days_count: 3,
-				total_sales_growth: 0.45,
-				total_covers_growth: 0.23,
-				average_cover_growth: 0.7,
-				average_daily_sales_growth: 0.34
-			}
-		}
-	},
-	code: 200
-}
-````
+The principles:
+- Fill in your calendar ! It'll be shared and everyone we'll use it to check your availabilities when scheduling meetings or events
+- Use the Team Calendar when creating an event concerning everyone in the team !
 
-#### Focus Restaurant 1 Mars 2018 par serving_types
-````
-request_params = {
-	reference_date: 20180328,
-	where_period: 'month',
-	compare_period: 'year',
-	compare_shift: -1,
-	with_growth: true,
-	where_data: {restaurant_ids:[1]},
-	group_data: ['serving_types']
-````
-la réponse prendra la forme suivante:
-````
-{
-	message: {
-		request_params: {
-			reference_date: 20180328,
-			where_period: 'month',
-			compare_period: 'year',
-			compare_shift: -1,
-			with_growth: true,
-			where_data: {restaurant_ids:[1]},
-			group_data: ['serving_types']
-		},
-		20180101: {
-			lunch: {
-				calendar_start_date: 20180320,
-				calendar_end_date: 20180328,
-				data_start_date: 20180323,
-				data_end_date: 20180328,
-				days_count: 3,
-				total_sales: 3167,
-				total_covers: 245,
-				average_cover: 38,
-				average_daily_sales: 480			
-			},
-			dinner: {
-				calendar_start_date: 20180320,
-				calendar_end_date: 20180328,
-				data_start_date: 20180323,
-				data_end_date: 20180328,
-				days_count: 3,
-				total_sales: 3167,
-				total_covers: 245,
-				average_cover: 38,
-				average_daily_sales: 480			
-			}
-		}
-		20170101: {
-			lunch: {
-				calendar_start_date: 20170320,
-				calendar_end_date: 20170328,
-				data_start_date: 20170323,
-				data_end_date: 20170328,
-				days_count: 3,
-				total_sales: 3167,
-				total_covers: 245,
-				average_cover: 38,
-				average_daily_sales: 480			
-			},
-			dinner: {
-				calendar_start_date: 20170320,
-				calendar_end_date: 20170328,
-				data_start_date: 20170323,
-				data_end_date: 20170328,
-				days_count: 3,
-				total_sales: 3167,
-				total_covers: 245,
-				average_cover: 38,
-				average_daily_sales: 480			
-			}
-		}
-		growth: {
-			lunch: {
-				calendar_start_date: 20170320,
-				calendar_end_date: 20170328,
-				data_start_date: 20170323,
-				data_end_date: 20170328,
-				days_count: 3,
-				total_sales_growth: 0.45,
-				total_covers_growth: 0.23,
-				average_cover_growth: 0.7,
-				average_daily_sales_growth: 0.34
-			},
-			dinner: {
-				calendar_start_date: 20170320,
-				calendar_end_date: 20170328,
-				data_start_date: 20170323,
-				data_end_date: 20170328,
-				days_count: 3,
-				total_sales_growth: 0.45,
-				total_covers_growth: 0.23,
-				average_cover_growth: 0.7,
-				average_daily_sales_growth: 0.34
-			}
-		}
-	},
-	code: 200
-}
-````
+#### Nikabot
+[Nikabot](https://www.nikabot.com) is a Slack Bot we're using to keep track of time spent on every projects. Once connected to the Poulpe Slack you'll receive a daily reminder around 6:30 to fill in your day activity: **Name of project | Time spent**.
+
+With these logs, the project manager consolidate on a weekly basis the time already spent on the project and (s)he can
+- anticipate delay and take the appropriate measures
+- change features priority in the backlog
+- check the economic health of the project
+
+**Filling your Nikabot on daily basis is critical.**
+
+#### Others
+When creating/editing other documents we tend to stick to Google Apps: Google Docs, Google Sheet, Google Slides.
+
+## A Poulpe's  Life
+
+Here is a couple of topics related to our daily organisation and life.
+
+### What am I gonna work on ?
+When it comes to planning, we're deciding the *who's gonna work on what ?* by trying to optimise various factors:
+- **Availability**
+	Obviously, we're trying to smooth the workload of everyone.
+
+- **Technical affinity and skills**
+	The basics:
+	- You're a frontend expert and you don't want to know what's a migration ? You're not gonna work backend.
+	- You're a junior backend dev, you won't be in charge of the app architecture *...but you'll have time to discuss it with the lead dev*.
+
+	In addition, we're trying to meet your development expectation:  You're backend but you're keen on learning some frontend, we'll do our best to accommodate it. This will happen as long as :
+	- you'll tell us ;) (yearly meetings 👇)
+	- it does not jeopardise the whole planning
+	- we have the opportunities
+
+- **Team rotation**
+	Ideally we want everyone to have the opportunity to work with everyone.
+
+This planning optimisation occurs more or less on a weekly basis, according to new projects, new variables, etc:
+- You can check the **"planned planning"** whenever you want at the root folder of the Team Drive.
+- **Weekly breakfast** meetings are the opportunity to discuss precisely what's up for the week and less precisely what's coming up for the next weeks.
+
+### Meetings
+#### Weekly Meetings
+- Monday 9:30/10 is the **weekly breakfast meeting** : we share a cup of coffee and a couple of tartines and everyone in turn explain what (s)he is up to for the week, what (s)he is been doing, what problems (s)he may have / will encounter.
+- Friday evening: Depending to everyone's schedule, friday evenings may be a good time to share a beer and talk about the week
+
+#### Yearly Meetings
+We're setting up biannual meetings to dedicate time to review the past 6 months, discuss achievements, expectations for the upcoming 6 months.
+
+### Side Projects and Poulpe's activities
+In addition to client's projects, we want to allocate time for everyone to work on side projects. Side Projects are the opportunities to learn new skills *(dev/product/marketing)* things, develop Poulpe's tools, products, services, librairies and refresh yourself. Right now (*September 2018*), we're building a new Contact Form Management Service, a.k.a a [GetForm](https://getform.org/) copycat. We should launch a beta version by the end of October.
+
+We have in mind a couple of other ideas, mainly some tools to help us in our work *(managing invoice, planning, etc.)* but also our new website, some small librairies (*rails-crud-redux*) or event website *(X-mas calendar)*.
+
+Apart from building things... we also want to write product or technical related articles. We've just published [one](https://medium.com/@agencepoulpe/le-marketing-dinfluence-a-son-bar%C3%B4m%C3%A8tre-1caa520c7d50) and we plan to carry on a monthly basis. If you fancy writing stuff, you'll have a chance.
+
+The point is, if you want to contribute by:
+- shipping features on Poulpe side projects
+- packaging librairies or tools
+- helping organising parties
+- improving Poulpe's website
+- suggesting/designing/prototyping new products/services
+- writing down articles
+- sharing resources and increasing Poulpe's knowledge base
+- presenting us some works
+- finding new office !
+- etc.
+
+You're more than welcome !
+
+### Poulpe's Social Networks
+Here are our social networks:
+- Instagram: [@agencepoulpe](https://www.instagram.com/agencepoulpe/), where the cool happens
+- Facebook: [Poulpe](https://www.facebook.com/agencepoulpe/), where events and news are announced
+- Linkedin: [Poulpe](https://www.linkedin.com/company/poulpe/), where new product-related articles and news are broadcast
+- Twitter: [Poulpe](https://twitter.com/poulpe_co), where the tech happens
+
+If you want to check them, just sayin...
+
+### What time should I arrive ?
+- Arrive before 10am
+- Leave after 5 pm
+- Do your time
+
+### Can I work from home ?
+Yes you can.
+- From time to time, let's say once every 2 weeks, no problemo.
+- On a more regulare basis, let's talk about it.
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTg1MzUxOCwtNDczNDU5NjA0LC0xMz
-Y2MzAxNDE0LC02MTY2ODU5MTQsLTk0NDU5MDA2NiwtNTgzODAy
-NjEzLDIwMTk3OTUwNTFdfQ==
--->
+### Holidays
+Don't forget your 🕶️and try to tell us 1 month in advance ! It's just easier to arrange the team planning.
+
+### Equipment
+You need pen, pencils, papers, screen, HDMI cables, etc. Just tell Thomas !

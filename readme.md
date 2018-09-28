@@ -161,6 +161,9 @@ This planning optimisation occurs more or less on a weekly basis, according to n
 - You can check the **"planned planning"** whenever you want at the root folder of the Team Drive.
 - **Weekly breakfast** meetings are the opportunity to discuss precisely what's up for the week and less precisely what's coming up for the next weeks.
 
+### Salary
+In order to be pay, please send your RIB to Karine (karine@poulpe.co or @karine on slack).
+
 ### Meetings
 #### Weekly Meetings
 - Monday 9:30/10 is the **weekly breakfast meeting**: we share a cup of coffee and a couple of tartines and everyone in turn explain what (s)he is up to for the week, what (s)he is been doing, what problems (s)he may have / will encounter.

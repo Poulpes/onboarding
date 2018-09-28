@@ -1,29 +1,29 @@
 # Onboarding
-Here is a couple of things to do and read to get you onboard asap !
+Here is a couple of things to do and read to get you onboard asap!
 
 ## Généralités
 
 ## before_action
-Be sure to have a good black and white picture of yourself ! You'll use it as a profile picture for Slack, Trello, GSuite, etc.
+Be sure to have a good black and white picture of yourself! You'll use it as a profile picture for Slack, Trello, GSuite, etc.
 
 ### Technical Setup
 There is no strict technical setup imposed, you can work with your custom shortcuts and own fancy terminal as long as it's convenient for you and the rest of the team:
-- to version you code with **git** and collaborate with **Github**
+- to version your code with **git** and collaborate with **Github**
 - to work on Ruby On Rails projets with ruby versions installed and managed by **[rbenv](https://github.com/rbenv/rbenv)**.
 	*The ruby and rails versions will vary from project to project. You'll have to install them accordingly.*
-- to work on [Yarn](https://yarnpkg.com/en/) and [npm](https://www.npmjs.com/) package managed projects, either as a part of a larger Rails application or as a pure front end app.
+- to work on [Yarn](https://yarnpkg.com/en/) and [npm](https://www.npmjs.com/) package manager projects, either as a part of a larger Rails application or as a pure front end app.
 
 Same thing apply for your editor: Sublime, Atome whatever you want as along as you're efficient with it :)
 
-At this time *(September 2018)* everyone in the team has a configuration 100% inspired from **[Le Wagon Setup](https://github.com/lewagon/setup)** : **Do check it !**
+At this time *(September 2018)* everyone in the team has a configuration 100% inspired from **[Le Wagon Setup](https://github.com/lewagon/setup)**: **Do check it !**
 
 ### Poulpe Coding Conventions
-There's no such thing right now ! For some projects we took time to write down some principles... for some others we didn't... some projects are brand new, some others... are not. Defining some conventions is on the agenda. Right now and generally speaking:
+There's no such thing right now! For some projects we took time to write down some principles... for some others we didn't... some projects are brand new, some others... are not. Defining some conventions is on the agenda. Right now and generally speaking:
 - for RoR we tend to agree with [these best practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/). (except for the *Fat Models, Skinny Controllers and Concerns* principle)
 - for pure frontend app (React) we tend to like the [standard.js](https://standardjs.com/) convention
 - for CSS we try to follow a component based approach and we try to take time at the start of the CSS dev to define the UIKit of the project.
 
-At last, we're not big on linting and editor plugin and other cool stuff... so if you 're keen on rubocoping, let's share that on the upcoming projects !
+At last, we're not big on linting and editor plugin and other cool stuff... so if you 're keen on rubocoping, let's share that on the upcoming projects!
 
 ### GitHub
 We use GitHub to collaborate.
@@ -35,7 +35,7 @@ In the meantime, repo are created by the lead dev and access are given repo/repo
 On some projects, we use GitHub Wiki to write down app documentation. Generally speaking, we're trying to document our apps more and more through good PR and `.readme` files. (Check StackEdit 👇)
 
 ### Heroku
-80% of our project are hosted on Heroku so make sure to have an account on it : either a new one with your *@poulpe.co* email or your current heroku account.
+80% of our project are hosted on Heroku so make sure to have an account on it: either a new one with your *@poulpe.co* email or your current heroku account.
 
 The `heroku-cli` tools come handy for working on our projects. Set up instructions are 👉https://devcenter.heroku.com/articles/heroku-cli.
 
@@ -94,13 +94,13 @@ We use Slack... a lot for internal communications *(project related, agency rela
 #### Email
 You should have received an invitation to complete the creation of your *first_name@poulpe.co* GSuite account. You'll be using this email address for external communication and access to various service.
 
-Using an email client or the Gmail interface, is up to you ! Instructions to set up your client can be found [here](https://support.google.com/mail/answer/7126229?visit_id=636734694420902249-1983367045&rd=1).
+Using an email client or the Gmail interface, is up to you! Instructions to set up your client can be found [here](https://support.google.com/mail/answer/7126229?visit_id=636734694420902249-1983367045&rd=1).
 
 #### Drive
 With your *@poulpe.co*  account you'll have access to our Team Work Drive. Each project has its own Drive Folder account with Input Data (requirements, mockup, etc.).
 
 If you need to create materials *(other than code !)* such as explanatory notes, commented mockups, dev notes, data exports, etc.. 2 options:
-1) It's only fo you ! It does not make any sense to share it with the rest of the team -> **Host it wherever you want but not in the Poulpe drive**
+1) It's only fo you! It does not make any sense to share it with the rest of the team -> **Host it wherever you want but not in the Poulpe drive**
 2) It makes sense to share it with the rest of the team... or someone may find it useful later on -> **Do store it in the `Ressources` folder of the project in the team drives**
 
 If you don't know, default to option 2.
@@ -119,8 +119,8 @@ We use Google Calendar for planning and scheduling purpose. With your *@poulpe.c
 - the team calendar (named the Team Calendar / poulpe.co_8m31vtbdv5k9o20ck8r7m2emfg@group.calendar.google.com)
 
 The principles:
-- Fill in your calendar ! It'll be shared and everyone we'll use it to check your availabilities when scheduling meetings or events
-- Use the Team Calendar when creating an event concerning everyone in the team !
+- Fill in your calendar! It'll be shared and everyone we'll use it to check your availabilities when scheduling meetings or events
+- Use the Team Calendar when creating an event concerning everyone in the team!
 
 #### Nikabot
 [Nikabot](https://www.nikabot.com) is a Slack Bot we're using to keep track of time spent on every projects. Once connected to the Poulpe Slack you'll receive a daily reminder around 6:30 to fill in your day activity: **Name of project | Time spent**.
@@ -149,7 +149,7 @@ When it comes to planning, we're deciding the *who's gonna work on what ?* by tr
 	- You're a frontend expert and you don't want to know what's a migration ? You're not gonna work backend.
 	- You're a junior backend dev, you won't be in charge of the app architecture *...but you'll have time to discuss it with the lead dev*.
 
-	In addition, we're trying to meet your development expectation:  You're backend but you're keen on learning some frontend, we'll do our best to accommodate it. This will happen as long as :
+	In addition, we're trying to meet your development expectation:  You're backend but you're keen on learning some frontend, we'll do our best to accommodate it. This will happen as long as:
 	- you'll tell us ;) (yearly meetings 👇)
 	- it does not jeopardise the whole planning
 	- we have the opportunities
@@ -163,7 +163,7 @@ This planning optimisation occurs more or less on a weekly basis, according to n
 
 ### Meetings
 #### Weekly Meetings
-- Monday 9:30/10 is the **weekly breakfast meeting** : we share a cup of coffee and a couple of tartines and everyone in turn explain what (s)he is up to for the week, what (s)he is been doing, what problems (s)he may have / will encounter.
+- Monday 9:30/10 is the **weekly breakfast meeting**: we share a cup of coffee and a couple of tartines and everyone in turn explain what (s)he is up to for the week, what (s)he is been doing, what problems (s)he may have / will encounter.
 - Friday evening: Depending to everyone's schedule, friday evenings may be a good time to share a beer and talk about the week
 
 #### Yearly Meetings
@@ -185,10 +185,10 @@ The point is, if you want to contribute by:
 - writing down articles
 - sharing resources and increasing Poulpe's knowledge base
 - presenting us some works
-- finding new office !
+- finding new office!
 - etc.
 
-You're more than welcome !
+You're more than welcome!
 
 ### Poulpe's Social Networks
 Here are our social networks:
@@ -199,19 +199,19 @@ Here are our social networks:
 
 If you want to check them, just sayin...
 
-### What time should I arrive ?
+### Offices
+Today, we are in the LeWagon coworking. You will need to create an account [here](lewagon.cobot.me), and give us your MAC address: [tutorial](http://osxdaily.com/2012/02/28/find-mac-address-mac-os-x/)
+
+### What time should I arrive?
 - Arrive before 10am
-- Leave after 5 pm
-- Do your time
 
 ### Can I work from home ?
 Yes you can.
 - From time to time, let's say once every 2 weeks, no problemo.
 - On a more regulare basis, let's talk about it.
 
-
 ### Holidays
-Don't forget your 🕶️and try to tell us 1 month in advance ! It's just easier to arrange the team planning.
+Don't forget your 🕶️and try to tell us 1 month in advance! It's just easier to arrange the team planning.
 
 ### Equipment
-You need pen, pencils, papers, screen, HDMI cables, etc. Just tell Thomas !
+You need pen, pencils, papers, screen, HDMI cables, etc. Just tell Thomas!

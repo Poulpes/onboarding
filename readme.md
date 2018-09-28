@@ -162,7 +162,7 @@ This planning optimisation occurs more or less on a weekly basis, according to n
 - **Weekly breakfast** meetings are the opportunity to discuss precisely what's up for the week and less precisely what's coming up for the next weeks.
 
 ### Salary
-In order to be pay, please send your RIB to Karine (karine@poulpe.co or @karine on slack).
+In order to be paid, please send your RIB to Karine (karine@poulpe.co or `@karine` on slack).
 
 ### Meetings
 #### Weekly Meetings

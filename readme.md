@@ -15,7 +15,7 @@ There is no strict technical setup imposed, you can work with your custom shortc
 
 Same thing apply for your editor: Sublime, Atome whatever you want as along as you're efficient with it :)
 
-At this time *(September 2018)* everyone in the team has a configuration 100% inspired from **[Le Wagon Setup](https://github.com/lewagon/setup)**: **Do check it !**
+At this time *(February 2019)* everyone in the team has a configuration 100% inspired from **[Le Wagon Setup](https://github.com/lewagon/setup)**: **Do check it !**
 
 ### Poulpe Coding Conventions
 There's no such thing right now! For some projects we took time to write down some principles... for some others we didn't... some projects are brand new, some others... are not. Defining some conventions is on the agenda. Right now and generally speaking:
@@ -158,7 +158,7 @@ When it comes to planning, we're deciding the *who's gonna work on what ?* by tr
 	Ideally we want everyone to have the opportunity to work with everyone.
 
 This planning optimisation occurs more or less on a weekly basis, according to new projects, new variables, etc:
-- You can check the **"planned planning"** whenever you want at the root folder of the Team Drive.
+- You can check the **"planned planning"** whenever you want in the folder **02 - PLANNINGS** of the Team Drive.
 - **Weekly breakfast** meetings are the opportunity to discuss precisely what's up for the week and less precisely what's coming up for the next weeks.
 
 ### Salary
@@ -173,7 +173,7 @@ In order to be paid, please send your RIB to Karine (karine@poulpe.co or `@karin
 We're setting up biannual meetings to dedicate time to review the past 6 months, discuss achievements, expectations for the upcoming 6 months.
 
 ### Side Projects and Poulpe's activities
-In addition to client's projects, we want to allocate time for everyone to work on side projects. Side Projects are the opportunities to learn new skills *(dev/product/marketing)* things, develop Poulpe's tools, products, services, librairies and refresh yourself. Right now (*September 2018*), we're building a new Contact Form Management Service, a.k.a a [GetForm](https://getform.org/) copycat. We should launch a beta version by the end of October.
+In addition to client's projects, we want to allocate time for everyone to work on side projects. Side Projects are the opportunities to learn new skills *(dev/product/marketing)* things, develop Poulpe's tools, products, services, librairies and refresh yourself. Right now (*February 2019*), we're building a new Contact Form Management Service, a.k.a a [GetForm](https://getform.org/) copycat. We should launch a beta version as soon as we can.
 
 We have in mind a couple of other ideas, mainly some tools to help us in our work *(managing invoice, planning, etc.)* but also our new website, some small librairies (*rails-crud-redux*) or event website *(X-mas calendar)*.
 
@@ -188,7 +188,7 @@ The point is, if you want to contribute by:
 - writing down articles
 - sharing resources and increasing Poulpe's knowledge base
 - presenting us some works
-- finding new office!
+- participate on our social networks
 - etc.
 
 You're more than welcome!
@@ -200,10 +200,10 @@ Here are our social networks:
 - Linkedin: [Poulpe](https://www.linkedin.com/company/poulpe/), where new product-related articles and news are broadcast
 - Twitter: [Poulpe](https://twitter.com/poulpe_co), where the tech happens
 
-If you want to check them, just sayin...
+If you want to check them, share our posts, just sayin...
 
 ### Offices
-Today, we are in the LeWagon coworking. You will need to create an account [here](lewagon.cobot.me), and give us your MAC address: [tutorial](http://osxdaily.com/2012/02/28/find-mac-address-mac-os-x/)
+The office is located at 106 rue de la Folie Méricourt, 75011 Paris. We will give you the codes and a key of the office.
 
 ### What time should I arrive?
 - Arrive before 10am

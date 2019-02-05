@@ -166,7 +166,7 @@ In order to be paid, please send your RIB to Karine (karine@poulpe.co or `@karin
 
 ### Meetings
 #### Weekly Meetings
-- Monday 9:30/10 is the **weekly breakfast meeting**: we share a cup of coffee and a couple of tartines and everyone in turn explain what (s)he is up to for the week, what (s)he is been doing, what problems (s)he may have / will encounter.  **We're not very good at it right now... but we'll try to be better**
+- Monday 10AM is the **weekly breakfast meeting**: we share a cup of coffee and a couple of tartines and everyone in turn explain what (s)he is up to for the week, what (s)he is been doing, what problems (s)he may have / will encounter.  **We're not very good at it right now... but we'll try to be better**
 - Friday evening: Depending to everyone's schedule, friday evenings may be a good time to share a beer and talk about the week
 
 #### Yearly Meetings

@@ -1,7 +1,7 @@
 # Onboarding
 Here is a couple of things to do and read to get you onboard asap!
 
-## Généralités
+## General info
 
 ## before_action
 Be sure to have a good black and white picture of yourself! You'll use it as a profile picture for Slack, Trello, GSuite, etc.
@@ -17,6 +17,8 @@ Same thing apply for your editor: Sublime, Atome whatever you want as along as y
 
 At this time *(February 2019)* everyone in the team has a configuration 100% inspired from **[Le Wagon Setup](https://github.com/lewagon/setup)**: **Do check it !**
 
+**NEW** You'll start with a brand new computer !
+
 ### Poulpe Coding Conventions
 There's no such thing right now! For some projects we took time to write down some principles... for some others we didn't... some projects are brand new, some others... are not. Defining some conventions is on the agenda. Right now and generally speaking:
 - for RoR we tend to agree with [these best practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/). (except for the *Fat Models, Skinny Controllers and Concerns* principle)
@@ -26,13 +28,11 @@ There's no such thing right now! For some projects we took time to write down so
 At last, we're not big on linting and editor plugin and other cool stuff... so if you 're keen on rubocoping, let's share that on the upcoming projects!
 
 ### GitHub
-We use GitHub to collaborate.
-
-Right now *(Septembre 2018)*, the [Poulpe GitHub](https://github.com/Poulpes) is not an organisation account. We'll transition to an Organisation Account soon.
+We use GitHub to collaborate, you'll be part of the [Poulpe GitHub](https://github.com/Poulpes) organisation.
 
 In the meantime, repo are created by the lead dev and access are given repo/repo by the lead dev.
 
-On some projects, we use GitHub Wiki to write down app documentation. Generally speaking, we're trying to document our apps more and more through good PR and `.readme` files. (Check StackEdit 👇)
+On some projects, we use GitHub Wiki to write down app documentation. Generally speaking, we're trying to document our apps more and more through good PR and `.readme` files.
 
 ### Heroku
 80% of our project are hosted on Heroku so make sure to have an account on it: either a new one with your *@poulpe.co* email or your current heroku account.
@@ -41,7 +41,7 @@ The `heroku-cli` tools come handy for working on our projects. Set up instructio
 
 The other 20% are either hosted on GitHub Pages, Scalingo or directly by the client.
 
-SO, postmark, sendgrid, papertrail, amazon, cloudinary, etc. andfor desogns
+SO, postmark, sendgrid, papertrail, amazon, cloudinary, etc.
 
 ### StackEdit
 [StackEdit](https://stackedit.io) comes handy when to writing down your dev technical notes, preparing your PR, `.readme` files. It's free to use and you can sync files with Google Drive and GitHub.
@@ -166,7 +166,7 @@ In order to be paid, please send your RIB to Karine (karine@poulpe.co or `@karin
 
 ### Meetings
 #### Weekly Meetings
-- Monday 9:30/10 is the **weekly breakfast meeting**: we share a cup of coffee and a couple of tartines and everyone in turn explain what (s)he is up to for the week, what (s)he is been doing, what problems (s)he may have / will encounter.
+- Monday 9:30/10 is the **weekly breakfast meeting**: we share a cup of coffee and a couple of tartines and everyone in turn explain what (s)he is up to for the week, what (s)he is been doing, what problems (s)he may have / will encounter.  **We're not very good at it right now... but we'll try to be better**
 - Friday evening: Depending to everyone's schedule, friday evenings may be a good time to share a beer and talk about the week
 
 #### Yearly Meetings
@@ -177,7 +177,7 @@ In addition to client's projects, we want to allocate time for everyone to work 
 
 We have in mind a couple of other ideas, mainly some tools to help us in our work *(managing invoice, planning, etc.)* but also our new website, some small librairies (*rails-crud-redux*) or event website *(X-mas calendar)*.
 
-Apart from building things... we also want to write product or technical related articles. We've just published [one](https://medium.com/@agencepoulpe/le-marketing-dinfluence-a-son-bar%C3%B4m%C3%A8tre-1caa520c7d50) and we plan to carry on a monthly basis. If you fancy writing stuff, you'll have a chance.
+Apart from building things... we also want to write product or technical related articles. We've just published [one](https://medium.com/@agencepoulpe/le-marketing-dinfluence-a-son-bar%C3%B4m%C3%A8tre-1caa520c7d50) about YÔO and one about [resteo](https://medium.com/@agencepoulpe/de-la-data-analytics-en-restauration-ebe9c4d86e23) and we plan to carry on a ~~monthly~~ tri-monthly basis. If you fancy writing stuff, you'll have a chance.
 
 The point is, if you want to contribute by:
 - shipping features on Poulpe side projects
@@ -198,7 +198,7 @@ Here are our social networks:
 - Instagram: [@agencepoulpe](https://www.instagram.com/agencepoulpe/), where the cool happens
 - Facebook: [Poulpe](https://www.facebook.com/agencepoulpe/), where events and news are announced
 - Linkedin: [Poulpe](https://www.linkedin.com/company/poulpe/), where new product-related articles and news are broadcast
-- Twitter: [Poulpe](https://twitter.com/poulpe_co), where the tech happens
+- Twitter: [Poulpe](https://twitter.com/poulpe_co), where the tech happens... or not.
 
 If you want to check them, share our posts, just sayin...
 

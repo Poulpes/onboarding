@@ -15,7 +15,7 @@ There is no strict technical setup imposed, you can work with your custom shortc
 
 Same thing apply for your editor: Sublime, Atome whatever you want as along as you're efficient with it :)
 
-At this time *(February 2019)* everyone in the team has a configuration 100% inspired from **[Le Wagon Setup](https://github.com/lewagon/setup)**: **Do check it !**
+At this time *(February 2019)* everyone in the team has a configuration 100% adapted from **[Le Wagon Setup](https://github.com/poulpes/setup)**: **Do check it !**
 
 **NEW** You'll start with a brand new computer !
 

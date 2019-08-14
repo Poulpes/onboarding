@@ -13,11 +13,11 @@ There is no strict technical setup imposed, you can work with your custom shortc
 	*The ruby and rails versions will vary from project to project. You'll have to install them accordingly.*
 - to work on [Yarn](https://yarnpkg.com/en/) and [npm](https://www.npmjs.com/) package manager projects, either as a part of a larger Rails application or as a pure front end app.
 
-Same thing apply for your editor: Sublime, Atome whatever you want as along as you're efficient with it :)
+Same thing apply for your editor: Sublime, Atom whatever you want as along as you're efficient with it :)
 
-At this time *(February 2019)* everyone in the team has a configuration 100% adapted from **[Le Wagon Setup](https://github.com/poulpes/setup)**: **Do check it !**
+At this time *(August 2019)* everyone in the team has a configuration 100% adapted from **[Le Wagon Setup](https://github.com/poulpes/setup)**: **Do check it !**
 
-**NEW** You'll start with a brand new computer !
+You'll start with a brand new computer !
 
 ### Poulpe Coding Conventions
 There's no such thing right now! For some projects we took time to write down some principles... for some others we didn't... some projects are brand new, some others... are not. Defining some conventions is on the agenda. Right now and generally speaking:
@@ -68,22 +68,16 @@ Each project is managed by a single project manager. 95% of the time, the projec
 
 ### Tools
 Regarding tools and processes:
-- Trello is our number 1 tool when managing project.
+- Clubhouse is our number 1 tool when managing project.
 - Internal communication goes through Slack
 - Emails are for external communication: Poulpes <-> Client
 - Code is on GitHub other materials are stored on Google Poulpe's Team Drives
 - Planning and scheduling is made easy with a well-informed Google Calendar
 
-#### Trello
-**Make sure to create an account on [Trello](https://trello.com) with your @poulpe.co address**. We'll add you to the team.
+#### Clubhouse
+We'll add you to the [Clubhouse](https://clubhouse.io/) organisation **with your @poulpe.co address**..
 
-Every project has its own board. The precise name and number of lists may vary from projects to projects but you'll aways somehow find:
-- an "INPUT" or "NOTES" card giving access to input data of the projects: requirements, maquettes, notes, etc.
-- a backlog list
-- an in-progress list
-- a done list
-
-We've been trying some other tools (GitHub issues, Jira, etc.) but Trello feels the more practical/convenient/simple to collaborate on each project and to onboard client in the project management process.
+We are just starting to use this tool, and we are planning on making a small presentation so we all get on board with the processes.
 
 #### Slack
 We use Slack... a lot for internal communications *(project related, agency related, life related, etc.)* and even for external communication with some clients.
@@ -165,19 +159,24 @@ This planning optimisation occurs more or less on a weekly basis, according to n
 In order to be paid, please send your RIB to Karine (karine@poulpe.co or `@karine` on slack).
 
 ### Meetings
-#### Weekly Meetings
+#### Weekly Breakfast
 - Monday 10AM is the **weekly breakfast meeting**: we share a cup of coffee and a couple of tartines and everyone in turn explain what (s)he is up to for the week, what (s)he is been doing, what problems (s)he may have / will encounter.  **We're not very good at it right now... but we'll try to be better**
-- Friday evening: Depending to everyone's schedule, friday evenings may be a good time to share a beer and talk about the week
+
+#### Occasionnal drinks 
+Depending to everyone's schedule, we try to take time to share a beer or else with the team.
 
 #### Yearly Meetings
 We're setting up biannual meetings to dedicate time to review the past 6 months, discuss achievements, expectations for the upcoming 6 months.
 
+#### Aquarium's
+Every 3 months, we are doing an afterwork *apéro* with other people working in the tech industry. You are more than welcome to invite some people to come.
+
 ### Side Projects and Poulpe's activities
-In addition to client's projects, we want to allocate time for everyone to work on side projects. Side Projects are the opportunities to learn new skills *(dev/product/marketing)* things, develop Poulpe's tools, products, services, librairies and refresh yourself. Right now (*February 2019*), we're building a new Contact Form Management Service, a.k.a a [GetForm](https://getform.org/) copycat. We should launch a beta version as soon as we can.
+In addition to client's projects, we want to allocate time for everyone to work on side projects. Side Projects are the opportunities to learn new skills *(dev/product/marketing)* things, develop Poulpe's tools, products, services, librairies and refresh yourself. Right now (*February 2019*), we're building a new Contact Form Management Service, a.k.a a [GetForm](https://getform.org/) copycat. We should launch a beta version as soon as we can (*oupsy*) .
 
 We have in mind a couple of other ideas, mainly some tools to help us in our work *(managing invoice, planning, etc.)* but also our new website, some small librairies (*rails-crud-redux*) or event website *(X-mas calendar)*.
 
-Apart from building things... we also want to write product or technical related articles. We've just published [one](https://medium.com/@agencepoulpe/le-marketing-dinfluence-a-son-bar%C3%B4m%C3%A8tre-1caa520c7d50) about YÔO and one about [resteo](https://medium.com/@agencepoulpe/de-la-data-analytics-en-restauration-ebe9c4d86e23) and we plan to carry on a ~~monthly~~ tri-monthly basis. If you fancy writing stuff, you'll have a chance.
+Apart from building things... we also want to write product or technical related articles. We've published [one](https://medium.com/@agencepoulpe/le-marketing-dinfluence-a-son-bar%C3%B4m%C3%A8tre-1caa520c7d50) about YÔO and one about [resteo](https://medium.com/@agencepoulpe/de-la-data-analytics-en-restauration-ebe9c4d86e23) and we plan to carry on a ~~monthly~~ tri-monthly basis. (*oupsy*) If you fancy writing stuff, you'll have a chance.
 
 The point is, if you want to contribute by:
 - shipping features on Poulpe side projects
@@ -214,7 +213,7 @@ Yes you can.
 - On a more regulare basis, let's talk about it.
 
 ### Holidays
-Don't forget your 🕶️and try to tell us 1 month in advance! It's just easier to arrange the team planning.
+Don't forget your 🕶️ and try to tell us 1 month in advance! It's just easier to arrange the team planning.
 
 ### Equipment
-You need pen, pencils, papers, screen, HDMI cables, etc. Just tell Thomas!
+You need pen, pencils, papers, screen, HDMI cables, etc. There will be a workspace on clubhouse for that!

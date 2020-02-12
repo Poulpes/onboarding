@@ -25,8 +25,6 @@ There's no such thing right now! For some projects we took time to write down so
 - for pure frontend app (React) we tend to like the [standard.js](https://standardjs.com/) convention
 - for CSS we try to follow a component based approach and we try to take time at the start of the CSS dev to define the UIKit of the project.
 
-At last, we're not big on linting and editor plugin and other cool stuff... so if you 're keen on rubocoping, let's share that on the upcoming projects!
-
 ### GitHub
 We use GitHub to collaborate, you'll be part of the [Poulpe GitHub](https://github.com/Poulpes) organisation.
 
@@ -43,12 +41,12 @@ The other 20% are either hosted on GitHub Pages, Scalingo or directly by the cli
 
 SO, postmark, sendgrid, papertrail, amazon, cloudinary, etc.
 
-### StackEdit
-[StackEdit](https://stackedit.io) comes handy when to writing down your dev technical notes, preparing your PR, `.readme` files. It's free to use and you can sync files with Google Drive and GitHub.
+### Typora / StackEdit
+[StackEdit](https://stackedit.io), [Typora](https://typora.io/) come handy when to writing down your dev technical notes, preparing your PR, `.readme` files. It's free to use ! 
 
 ### Other tools and services
 
-[PostmarkApp](https://postmarkapp.com/), [SendGrid](https://sendgrid.com/), [Cloudinary](https://cloudinary.com/), [AWS](https://aws.amazon.com/fr/), [Gandi](https://www.gandi.net/fr), etc. are some other services, you'll come across.
+[PostmarkApp](https://postmarkapp.com/), [SendGrid](https://sendgrid.com/), [Cloudinary](https://cloudinary.com/), [AWS](https://aws.amazon.com/fr/), [Gandi](https://www.gandi.net/fr), [Notion](https://www.notion.so/), etc. are some other services, you'll come across.
 
 ### Design
 
@@ -75,9 +73,7 @@ Regarding tools and processes:
 - Planning and scheduling is made easy with a well-informed Google Calendar
 
 #### Clubhouse
-We'll add you to the [Clubhouse](https://clubhouse.io/) organisation **with your @poulpe.co address**..
-
-We are just starting to use this tool, and we are planning on making a small presentation so we all get on board with the processes.
+We'll add you to the [Clubhouse](https://clubhouse.io/) organisation **with your @poulpe.co address**.
 
 #### Slack
 We use Slack... a lot for internal communications *(project related, agency related, life related, etc.)* and even for external communication with some clients.
@@ -156,17 +152,17 @@ This planning optimisation occurs more or less on a weekly basis, according to n
 - **Weekly breakfast** meetings are the opportunity to discuss precisely what's up for the week and less precisely what's coming up for the next weeks.
 
 ### Salary
-In order to be paid, please send your RIB to Karine (karine@poulpe.co or `@karine` on slack).
+In order to be paid, please complete your profile on Payfit.
 
 ### Meetings
 #### Weekly Breakfast
-- Monday 10AM is the **weekly breakfast meeting**: we share a cup of coffee and a couple of tartines and everyone in turn explain what (s)he is up to for the week, what (s)he is been doing, what problems (s)he may have / will encounter.  **We're not very good at it right now... but we'll try to be better**
+- Monday 10AM is the **weekly breakfast meeting**: we share a cup of coffee and a couple of tartines and discuss the backlog: each feature in the backlog is quickly reviewed and scored !
 
 #### Occasionnal drinks 
 Depending to everyone's schedule, we try to take time to share a beer or else with the team.
 
-#### Yearly Meetings
-We're setting up biannual meetings to dedicate time to review the past 6 months, discuss achievements, expectations for the upcoming 6 months.
+#### Bimensual Meetings
+We're setting up bimensual meetings, _I mean a meeting every two months_, to discuss achievements, problems, things to improve, etc..
 
 #### Aquarium's
 Every 3 months, we are doing an afterwork *apéro* with other people working in the tech industry. You are more than welcome to invite some people to come.
@@ -216,4 +212,4 @@ Yes you can.
 Don't forget your 🕶️ and try to tell us 1 month in advance! It's just easier to arrange the team planning.
 
 ### Equipment
-You need pen, pencils, papers, screen, HDMI cables, etc. There will be a workspace on clubhouse for that!
+You need pen, pencils, papers, screen, HDMI cables, etc.
